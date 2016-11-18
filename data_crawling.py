@@ -1,13 +1,4 @@
-'''
-拿到全英雄的id=https://na.api.pvp.net/api/lol/na/v1.2/champion?api_key=RGAPI-090e5155-b82f-4f5a-bb4a-99facb7699d0
-(state_data)利用id來查到該英雄的資訊= https://global.api.pvp.net/api/lol/static-data/na/v1.2/champion/<id>?champData=all&api_key=RGAPI-090e5155-b82f-4f5a-bb4a-99facb7699d0
-菁英階級 來找名稱 = https://kr.api.pvp.net/api/lol/kr/v2.5/league/challenger?type=RANKED_SOLO_5x5&api_key=RGAPI-090e5155-b82f-4f5a-bb4a-99facb7699d0
-由召喚師名稱找到該玩家id https://kr.api.pvp.net/api/lol/kr/v1.4/summoner/by-name/fw maple?api_key=RGAPI-090e5155-b82f-4f5a-bb4a-99facb7699d0
-由玩家id 找到積分常用英雄資訊(可算出勝綠)
- https://kr.api.pvp.net/api/lol/kr/v1.3/stats/by-summoner/3458580/ranked?season=SEASON2016&api_key=RGAPI-090e5155-b82f-4f5a-bb4a-99facb7699d0
-玩家id 找他的專精
-某一隻英雄 再勝場數300以上 勝率最高的出裝方法 天賦(masteries)
-'''
+# -*- coding: utf-8 -*-
 from collections import OrderedDict
 from operator import itemgetter
 import requests
@@ -15,9 +6,16 @@ import json
 import time
 import csv
 from json import dumps, load
-
+import sys
+print(len(sys.argv))
+if len(sys.argv) !=2:
+    print('Usage: python3 [].py <Region>')
+    sys.exit()
+else:
+    #print(sys.argv[1])
+    Region  = sys.argv[1]
 api_key = "RGAPI-090e5155-b82f-4f5a-bb4a-99facb7699d0"
-Region = "na";
+#Region = "kr";
 champions_Id_Info={}
 
 #
@@ -57,6 +55,11 @@ def Challenger_Champions(Region,id):
             tmp = {}
             if(data['id']!=0):
                 win_rate = (data['stats']['totalSessionsWon'])/(data['stats']['totalSessionsLost']+data['stats']['totalSessionsWon'])
+                if((data['stats']['totalDeathsPerSession'])==0):
+                    tmp['kda']= (data['stats']['totalChampionKills']+data['stats']['totalAssists'])/1
+                else:
+                    tmp['kda']= (data['stats']['totalChampionKills']+data['stats']['totalAssists'])/(data['stats']['totalDeathsPerSession'])
+
                 tmp['win_rate']=win_rate
                 tmp['total_games']= (data['stats']['totalSessionsLost']+data['stats']['totalSessionsWon'])
                 if(tmp['total_games']>=25 and win_rate>=0.5):
@@ -71,7 +74,7 @@ def Challenger_Champions(Region,id):
 # 由玩家id來找到該玩家的名稱
 #
 def Get_Challenger_Name_ById(id,Region):
-    Challenger_info = requests.get("https://"+"na"+".api.pvp.net/api/lol/"+"na"+"/v1.4/summoner/"+str(id)+"?api_key="+api_key)
+    Challenger_info = requests.get("https://"+Region+".api.pvp.net/api/lol/"+Region+"/v1.4/summoner/"+str(id)+"?api_key="+api_key)
     Challenger_info_json = json.loads(Challenger_info.text)
     for data in Challenger_info_json:
         #print(Challenger_info_json[data])
@@ -95,23 +98,14 @@ for data in Challenger_ordered_list:
     ChallengerName = Get_Challenger_Name_ById(data,Region)
     temp = Challenger_Champions(Region,str(data))
     Challenger_Champions_List[ChallengerName] = temp
-    #print(ChallengerName+":")
-    #print(temp)
-# for data in Challenger_Champions_List:
-#     print(data+":\n")
-#     print(Challenger_Champions_List[data])
 
-#
-#
-# for data in Challenger_Champions_List:
-#     print(data)
-#     print("\n")
+
 '''
-    將資料寫進csv檔
+    將資料寫進json檔
 '''
 file_name = "Challenger_info_"+Region+".json"
 # with open(file_name, mode='w', encoding='utf-8') as f:
 #     json.dump(Challenger_Champions_List, f)
 with open(file_name, 'w',encoding='utf-8') as f:
-     json.dump(Challenger_Champions_List, f)
+     json.dump(Challenger_Champions_List, f, ensure_ascii=False)
 #Get_Champions_Name_By_id(1)

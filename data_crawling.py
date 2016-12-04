@@ -77,10 +77,15 @@ def Get_Challenger_Name_ById(id,Region):
     Challenger_info = requests.get("https://"+Region+".api.pvp.net/api/lol/"+Region+"/v1.4/summoner/"+str(id)+"?api_key="+api_key)
     Challenger_info_json = json.loads(Challenger_info.text)
     for data in Challenger_info_json:
-        #print(Challenger_info_json[data])
-        if(Challenger_info_json[data]['name']):
+        # print((Challenger_info_json[data]))
+        # print(len(Challenger_info_json[data]))
+        if(len(Challenger_info_json[data])==5):
             #print(Challenger_info_json[data]['name'])
+            #print(11)
             return Challenger_info_json[data]['name']
+        elif(len(Challenger_info_json[data])==2):
+            #print("Rate limit Exeed in finding Challenger names")
+            time.sleep( 5 )
         else:
             print("unknown")
             return "unknown"

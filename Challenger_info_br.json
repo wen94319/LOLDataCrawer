@@ -1,0 +1,5759 @@
+{
+    "paiN Tay": {
+        "Nidalee": {
+            "kda": 3.616949152542373,
+            "total_games": 64,
+            "win_rate": 0.703125
+        },
+        "Sivir": {
+            "kda": 3.1690821256038646,
+            "total_games": 46,
+            "win_rate": 0.5217391304347826
+        },
+        "Jhin": {
+            "kda": 3.4070796460176993,
+            "total_games": 52,
+            "win_rate": 0.5
+        },
+        "Ashe": {
+            "kda": 2.6129032258064515,
+            "total_games": 34,
+            "win_rate": 0.5294117647058824
+        },
+        "Viktor": {
+            "kda": 2.5611510791366907,
+            "total_games": 31,
+            "win_rate": 0.7096774193548387
+        },
+        "Azir": {
+            "kda": 2.8125,
+            "total_games": 26,
+            "win_rate": 0.5384615384615384
+        },
+        "LeBlanc": {
+            "kda": 4.150793650793651,
+            "total_games": 43,
+            "win_rate": 0.6976744186046512
+        },
+        "Lucian": {
+            "kda": 3.256797583081571,
+            "total_games": 73,
+            "win_rate": 0.6027397260273972
+        },
+        "Ezreal": {
+            "kda": 3.8853503184713376,
+            "total_games": 41,
+            "win_rate": 0.6585365853658537
+        },
+        "Elise": {
+            "kda": 4.063106796116505,
+            "total_games": 60,
+            "win_rate": 0.7833333333333333
+        },
+        "Olaf": {
+            "kda": 4.385416666666667,
+            "total_games": 32,
+            "win_rate": 0.6875
+        },
+        "Lee Sin": {
+            "kda": 3.629139072847682,
+            "total_games": 36,
+            "win_rate": 0.75
+        },
+        "Kalista": {
+            "kda": 2.9115646258503403,
+            "total_games": 32,
+            "win_rate": 0.71875
+        },
+        "Zed": {
+            "kda": 2.460526315789474,
+            "total_games": 31,
+            "win_rate": 0.7096774193548387
+        }
+    },
+    "kgx": {
+        "Thresh": {
+            "kda": 3.292682926829268,
+            "total_games": 169,
+            "win_rate": 0.5502958579881657
+        },
+        "Janna": {
+            "kda": 4.818181818181818,
+            "total_games": 146,
+            "win_rate": 0.6164383561643836
+        },
+        "Nautilus": {
+            "kda": 3.1043478260869564,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        },
+        "Braum": {
+            "kda": 3.964497041420118,
+            "total_games": 43,
+            "win_rate": 0.5581395348837209
+        },
+        "Morgana": {
+            "kda": 3.8096026490066226,
+            "total_games": 148,
+            "win_rate": 0.5878378378378378
+        },
+        "Karma": {
+            "kda": 3.8025477707006368,
+            "total_games": 42,
+            "win_rate": 0.5238095238095238
+        },
+        "Nami": {
+            "kda": 4.322335025380711,
+            "total_games": 115,
+            "win_rate": 0.5043478260869565
+        },
+        "Blitzcrank": {
+            "kda": 3.299019607843137,
+            "total_games": 48,
+            "win_rate": 0.5416666666666666
+        }
+    },
+    "gafone": {
+        "Braum": {
+            "kda": 3.826771653543307,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Bard": {
+            "kda": 4.133333333333334,
+            "total_games": 62,
+            "win_rate": 0.6774193548387096
+        }
+    },
+    "Rafael BelomO": {
+        "Orianna": {
+            "kda": 2.382978723404255,
+            "total_games": 26,
+            "win_rate": 0.5384615384615384
+        },
+        "Karthus": {
+            "kda": 2.078185132671663,
+            "total_games": 632,
+            "win_rate": 0.5886075949367089
+        }
+    },
+    "     bibielz": {
+        "Nidalee": {
+            "kda": 3.91324200913242,
+            "total_games": 105,
+            "win_rate": 0.6571428571428571
+        },
+        "Elise": {
+            "kda": 3.686,
+            "total_games": 221,
+            "win_rate": 0.579185520361991
+        },
+        "Graves": {
+            "kda": 2.8277027027027026,
+            "total_games": 121,
+            "win_rate": 0.512396694214876
+        },
+        "Gragas": {
+            "kda": 5.419354838709677,
+            "total_games": 38,
+            "win_rate": 0.6578947368421053
+        },
+        "Lee Sin": {
+            "kda": 3.901639344262295,
+            "total_games": 30,
+            "win_rate": 0.5333333333333333
+        }
+    },
+    "IGUIN MANEIRIN19": {
+        "Tristana": {
+            "kda": 2.811688311688312,
+            "total_games": 31,
+            "win_rate": 0.7096774193548387
+        },
+        "Lucian": {
+            "kda": 2.701594533029613,
+            "total_games": 92,
+            "win_rate": 0.5434782608695652
+        },
+        "Caitlyn": {
+            "kda": 2.4384449244060473,
+            "total_games": 91,
+            "win_rate": 0.5054945054945055
+        },
+        "Sivir": {
+            "kda": 2.516981132075472,
+            "total_games": 52,
+            "win_rate": 0.5576923076923077
+        },
+        "Jhin": {
+            "kda": 3.138059701492537,
+            "total_games": 51,
+            "win_rate": 0.5294117647058824
+        },
+        "Ashe": {
+            "kda": 2.538961038961039,
+            "total_games": 32,
+            "win_rate": 0.5625
+        },
+        "Kalista": {
+            "kda": 2.3452914798206277,
+            "total_games": 40,
+            "win_rate": 0.525
+        },
+        "Ezreal": {
+            "kda": 2.7620253164556963,
+            "total_games": 76,
+            "win_rate": 0.5131578947368421
+        }
+    },
+    "techno dance": {
+        "LeBlanc": {
+            "kda": 3.7260273972602738,
+            "total_games": 77,
+            "win_rate": 0.5064935064935064
+        },
+        "Twisted Fate": {
+            "kda": 3.895104895104895,
+            "total_games": 36,
+            "win_rate": 0.5555555555555556
+        },
+        "Ryze": {
+            "kda": 2.8299319727891157,
+            "total_games": 34,
+            "win_rate": 0.5588235294117647
+        },
+        "Thresh": {
+            "kda": 2.8457142857142856,
+            "total_games": 37,
+            "win_rate": 0.5675675675675675
+        },
+        "Corki": {
+            "kda": 3.7037037037037037,
+            "total_games": 36,
+            "win_rate": 0.6111111111111112
+        },
+        "Kassadin": {
+            "kda": 4.238095238095238,
+            "total_games": 39,
+            "win_rate": 0.6410256410256411
+        },
+        "Ezreal": {
+            "kda": 3.5956284153005464,
+            "total_games": 42,
+            "win_rate": 0.5952380952380952
+        },
+        "Zed": {
+            "kda": 3.2793296089385473,
+            "total_games": 45,
+            "win_rate": 0.6222222222222222
+        }
+    },
+    "DJ LuzAzul": {
+        "Kennen": {
+            "kda": 2.392,
+            "total_games": 399,
+            "win_rate": 0.5739348370927319
+        }
+    },
+    "Frugivore": {
+        "Lucian": {
+            "kda": 2.9642857142857144,
+            "total_games": 108,
+            "win_rate": 0.5462962962962963
+        },
+        "Ekko": {
+            "kda": 2.6568265682656826,
+            "total_games": 59,
+            "win_rate": 0.5423728813559322
+        },
+        "Rumble": {
+            "kda": 2.869565217391304,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Kalista": {
+            "kda": 3.0202020202020203,
+            "total_games": 49,
+            "win_rate": 0.5510204081632653
+        },
+        "Kindred": {
+            "kda": 2.65,
+            "total_games": 29,
+            "win_rate": 0.5862068965517241
+        },
+        "Jhin": {
+            "kda": 3.579310344827586,
+            "total_games": 38,
+            "win_rate": 0.631578947368421
+        },
+        "Fiora": {
+            "kda": 2.701195219123506,
+            "total_games": 65,
+            "win_rate": 0.6
+        }
+    },
+    "Helior": {
+        "Thresh": {
+            "kda": 3.162046908315565,
+            "total_games": 103,
+            "win_rate": 0.5436893203883495
+        },
+        "Graves": {
+            "kda": 2.8175182481751824,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Rumble": {
+            "kda": 2.88659793814433,
+            "total_games": 41,
+            "win_rate": 0.5365853658536586
+        },
+        "Gnar": {
+            "kda": 2.8739495798319328,
+            "total_games": 52,
+            "win_rate": 0.5192307692307693
+        },
+        "Braum": {
+            "kda": 3.3864541832669324,
+            "total_games": 55,
+            "win_rate": 0.6181818181818182
+        },
+        "Irelia": {
+            "kda": 2.8969072164948453,
+            "total_games": 43,
+            "win_rate": 0.6046511627906976
+        },
+        "Jax": {
+            "kda": 2.3636363636363638,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Poppy": {
+            "kda": 3.8773234200743496,
+            "total_games": 75,
+            "win_rate": 0.6266666666666667
+        },
+        "Fiora": {
+            "kda": 2.1352313167259784,
+            "total_games": 59,
+            "win_rate": 0.559322033898305
+        }
+    },
+    "OPQ Limbo": {
+        "Nidalee": {
+            "kda": 4.582191780821918,
+            "total_games": 31,
+            "win_rate": 0.8064516129032258
+        },
+        "Elise": {
+            "kda": 4.654411764705882,
+            "total_games": 34,
+            "win_rate": 0.7647058823529411
+        }
+    },
+    "Poulzric": {
+        "Lucian": {
+            "kda": 2.9559748427672954,
+            "total_games": 33,
+            "win_rate": 0.7272727272727273
+        },
+        "Blitzcrank": {
+            "kda": 4.1875,
+            "total_games": 26,
+            "win_rate": 0.6923076923076923
+        },
+        "Thresh": {
+            "kda": 3.4180602006688963,
+            "total_games": 68,
+            "win_rate": 0.5588235294117647
+        },
+        "Bard": {
+            "kda": 3.6745562130177514,
+            "total_games": 79,
+            "win_rate": 0.5063291139240507
+        },
+        "Fizz": {
+            "kda": 2.736842105263158,
+            "total_games": 45,
+            "win_rate": 0.6
+        }
+    },
+    "Nicholas P Wilde": {
+        "Quinn": {
+            "kda": 2.1081476068688345,
+            "total_games": 671,
+            "win_rate": 0.6080476900149031
+        },
+        "Sona": {
+            "kda": 2.48747591522158,
+            "total_games": 76,
+            "win_rate": 0.5657894736842105
+        },
+        "Aurelion Sol": {
+            "kda": 2.9002375296912115,
+            "total_games": 145,
+            "win_rate": 0.5793103448275863
+        },
+        "Malzahar": {
+            "kda": 1.9694835680751173,
+            "total_games": 67,
+            "win_rate": 0.5223880597014925
+        }
+    },
+    "RyuZiNDSK": {
+        "LeBlanc": {
+            "kda": 3.608433734939759,
+            "total_games": 37,
+            "win_rate": 0.5135135135135135
+        },
+        "Ahri": {
+            "kda": 4.277486910994765,
+            "total_games": 116,
+            "win_rate": 0.6379310344827587
+        }
+    },
+    "Atlanta1": {
+        "Lissandra": {
+            "kda": 3.0155642023346303,
+            "total_games": 50,
+            "win_rate": 0.58
+        },
+        "Orianna": {
+            "kda": 3.8806818181818183,
+            "total_games": 46,
+            "win_rate": 0.6086956521739131
+        },
+        "Miss Fortune": {
+            "kda": 2.8863049095607236,
+            "total_games": 81,
+            "win_rate": 0.5308641975308642
+        },
+        "Lux": {
+            "kda": 4.522935779816514,
+            "total_games": 33,
+            "win_rate": 0.6363636363636364
+        },
+        "Syndra": {
+            "kda": 2.9925925925925925,
+            "total_games": 25,
+            "win_rate": 0.56
+        },
+        "Ahri": {
+            "kda": 3.8333333333333335,
+            "total_games": 47,
+            "win_rate": 0.6595744680851063
+        }
+    },
+    "Josh Dun": {
+        "Orianna": {
+            "kda": 3.5323383084577116,
+            "total_games": 56,
+            "win_rate": 0.5892857142857143
+        },
+        "Lux": {
+            "kda": 4.365248226950355,
+            "total_games": 79,
+            "win_rate": 0.6582278481012658
+        },
+        "Janna": {
+            "kda": 4.01304347826087,
+            "total_games": 56,
+            "win_rate": 0.5892857142857143
+        },
+        "Morgana": {
+            "kda": 3.272727272727273,
+            "total_games": 38,
+            "win_rate": 0.5263157894736842
+        }
+    },
+    "ApolIo Creed": {
+        "Poppy": {
+            "kda": 3.6785714285714284,
+            "total_games": 44,
+            "win_rate": 0.7045454545454546
+        },
+        "Fiora": {
+            "kda": 2.396551724137931,
+            "total_games": 48,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "FAN DE URI 2": {
+        "Lissandra": {
+            "kda": 2.5407407407407407,
+            "total_games": 33,
+            "win_rate": 0.5454545454545454
+        },
+        "Gangplank": {
+            "kda": 2.976923076923077,
+            "total_games": 26,
+            "win_rate": 0.5
+        },
+        "Gnar": {
+            "kda": 2.0757575757575757,
+            "total_games": 28,
+            "win_rate": 0.5
+        },
+        "Gragas": {
+            "kda": 2.7868852459016393,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Maokai": {
+            "kda": 3.188720173535792,
+            "total_games": 99,
+            "win_rate": 0.5252525252525253
+        },
+        "Shen": {
+            "kda": 3.5636363636363635,
+            "total_games": 43,
+            "win_rate": 0.6046511627906976
+        },
+        "Ekko": {
+            "kda": 3.381512605042017,
+            "total_games": 144,
+            "win_rate": 0.5277777777777778
+        },
+        "Nautilus": {
+            "kda": 3.193798449612403,
+            "total_games": 63,
+            "win_rate": 0.6031746031746031
+        },
+        "Swain": {
+            "kda": 3.1333333333333333,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        },
+        "Trundle": {
+            "kda": 2.788546255506608,
+            "total_games": 51,
+            "win_rate": 0.5294117647058824
+        },
+        "Jayce": {
+            "kda": 3.4029850746268657,
+            "total_games": 31,
+            "win_rate": 0.6129032258064516
+        },
+        "Poppy": {
+            "kda": 3.4507042253521125,
+            "total_games": 127,
+            "win_rate": 0.5354330708661418
+        },
+        "Jhin": {
+            "kda": 2.6870967741935483,
+            "total_games": 56,
+            "win_rate": 0.5357142857142857
+        }
+    },
+    "NNNNNNNNNNNNNNNN": {
+        "Lissandra": {
+            "kda": 2.410138248847926,
+            "total_games": 34,
+            "win_rate": 0.5
+        },
+        "Lucian": {
+            "kda": 2.6459016393442623,
+            "total_games": 62,
+            "win_rate": 0.5161290322580645
+        },
+        "Jhin": {
+            "kda": 4.018867924528302,
+            "total_games": 26,
+            "win_rate": 0.6923076923076923
+        },
+        "Irelia": {
+            "kda": 2.4537521815008727,
+            "total_games": 117,
+            "win_rate": 0.5897435897435898
+        },
+        "Ezreal": {
+            "kda": 3.1396648044692737,
+            "total_games": 37,
+            "win_rate": 0.5945945945945946
+        },
+        "Jayce": {
+            "kda": 2.644171779141104,
+            "total_games": 31,
+            "win_rate": 0.6129032258064516
+        },
+        "Fiora": {
+            "kda": 2.5903919089759797,
+            "total_games": 171,
+            "win_rate": 0.5555555555555556
+        },
+        "Illaoi": {
+            "kda": 1.8277634961439588,
+            "total_games": 58,
+            "win_rate": 0.5172413793103449
+        }
+    },
+    "Ayel": {
+        "Illaoi": {
+            "kda": 2.6666666666666665,
+            "total_games": 35,
+            "win_rate": 0.6857142857142857
+        },
+        "Yorick": {
+            "kda": 2.9012345679012346,
+            "total_games": 38,
+            "win_rate": 0.6052631578947368
+        },
+        "Akali": {
+            "kda": 2.8424908424908426,
+            "total_games": 44,
+            "win_rate": 0.7272727272727273
+        },
+        "Fiora": {
+            "kda": 2.239130434782609,
+            "total_games": 30,
+            "win_rate": 0.5
+        },
+        "Zed": {
+            "kda": 2.5948275862068964,
+            "total_games": 47,
+            "win_rate": 0.6382978723404256
+        },
+        "Ahri": {
+            "kda": 3.241706161137441,
+            "total_games": 44,
+            "win_rate": 0.5454545454545454
+        }
+    },
+    "FinalDeath": {
+        "Rammus": {
+            "kda": 3.6403508771929824,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Elise": {
+            "kda": 3.059322033898305,
+            "total_games": 99,
+            "win_rate": 0.6161616161616161
+        },
+        "Rengar": {
+            "kda": 2.342245989304813,
+            "total_games": 30,
+            "win_rate": 0.6333333333333333
+        },
+        "Gragas": {
+            "kda": 4.2215189873417724,
+            "total_games": 42,
+            "win_rate": 0.6666666666666666
+        },
+        "Olaf": {
+            "kda": 4.728155339805825,
+            "total_games": 29,
+            "win_rate": 0.7931034482758621
+        }
+    },
+    "ÚLTIMO SAMURAI": {},
+    "Twisterkens": {
+        "Ezreal": {
+            "kda": 3.9657142857142857,
+            "total_games": 47,
+            "win_rate": 0.6595744680851063
+        },
+        "Ryze": {
+            "kda": 3.16,
+            "total_games": 143,
+            "win_rate": 0.6223776223776224
+        },
+        "Vladimir": {
+            "kda": 2.702127659574468,
+            "total_games": 71,
+            "win_rate": 0.5633802816901409
+        }
+    },
+    "DUAL1TY": {
+        "Irelia": {
+            "kda": 3.175675675675676,
+            "total_games": 46,
+            "win_rate": 0.7391304347826086
+        },
+        "Jax": {
+            "kda": 2.58273381294964,
+            "total_games": 33,
+            "win_rate": 0.7575757575757576
+        },
+        "Fiora": {
+            "kda": 2.1045364891518736,
+            "total_games": 86,
+            "win_rate": 0.5465116279069767
+        }
+    },
+    "BARRIL 2": {
+        "Nidalee": {
+            "kda": 4.421052631578948,
+            "total_games": 31,
+            "win_rate": 0.6774193548387096
+        },
+        "Gnar": {
+            "kda": 3.202247191011236,
+            "total_games": 25,
+            "win_rate": 0.64
+        },
+        "Lee Sin": {
+            "kda": 3.9842105263157896,
+            "total_games": 45,
+            "win_rate": 0.6
+        }
+    },
+    "YNll": {
+        "Orianna": {
+            "kda": 3.508695652173913,
+            "total_games": 57,
+            "win_rate": 0.6140350877192983
+        },
+        "Viktor": {
+            "kda": 2.9625,
+            "total_games": 30,
+            "win_rate": 0.5333333333333333
+        },
+        "Rengar": {
+            "kda": 3.0661157024793386,
+            "total_games": 28,
+            "win_rate": 0.5357142857142857
+        },
+        "Akali": {
+            "kda": 2.6645569620253164,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        }
+    },
+    "Huxy Siberiano ": {
+        "Lucian": {
+            "kda": 2.458741258741259,
+            "total_games": 355,
+            "win_rate": 0.532394366197183
+        },
+        "Caitlyn": {
+            "kda": 2.1640625,
+            "total_games": 82,
+            "win_rate": 0.5487804878048781
+        },
+        "Jhin": {
+            "kda": 2.9523809523809526,
+            "total_games": 95,
+            "win_rate": 0.5789473684210527
+        },
+        "Ashe": {
+            "kda": 2.1366906474820144,
+            "total_games": 41,
+            "win_rate": 0.5609756097560976
+        },
+        "Kalista": {
+            "kda": 2.502994011976048,
+            "total_games": 28,
+            "win_rate": 0.5357142857142857
+        },
+        "Vayne": {
+            "kda": 2.2367859049652963,
+            "total_games": 578,
+            "win_rate": 0.5986159169550173
+        },
+        "Ezreal": {
+            "kda": 2.4360655737704917,
+            "total_games": 103,
+            "win_rate": 0.5242718446601942
+        },
+        "Jinx": {
+            "kda": 2.527331189710611,
+            "total_games": 50,
+            "win_rate": 0.54
+        }
+    },
+    "TomnaM": {
+        "Lucian": {
+            "kda": 3.09438202247191,
+            "total_games": 97,
+            "win_rate": 0.5463917525773195
+        },
+        "Caitlyn": {
+            "kda": 3.0830188679245283,
+            "total_games": 52,
+            "win_rate": 0.5769230769230769
+        },
+        "Sivir": {
+            "kda": 3.264,
+            "total_games": 27,
+            "win_rate": 0.6296296296296297
+        },
+        "Jhin": {
+            "kda": 3.5254237288135593,
+            "total_games": 72,
+            "win_rate": 0.625
+        },
+        "Ashe": {
+            "kda": 3.6133333333333333,
+            "total_games": 48,
+            "win_rate": 0.7291666666666666
+        },
+        "Ezreal": {
+            "kda": 3.298045602605863,
+            "total_games": 127,
+            "win_rate": 0.5748031496062992
+        }
+    },
+    "Maury": {
+        "Renekton": {
+            "kda": 2.225531914893617,
+            "total_games": 134,
+            "win_rate": 0.5522388059701493
+        },
+        "Malphite": {
+            "kda": 2.6123959296947272,
+            "total_games": 225,
+            "win_rate": 0.5733333333333334
+        },
+        "Caitlyn": {
+            "kda": 2.0242774566473987,
+            "total_games": 148,
+            "win_rate": 0.5067567567567568
+        },
+        "Vi": {
+            "kda": 3.1033934252386004,
+            "total_games": 833,
+            "win_rate": 0.5738295318127251
+        },
+        "Ezreal": {
+            "kda": 2.374757281553398,
+            "total_games": 181,
+            "win_rate": 0.5303867403314917
+        },
+        "Blitzcrank": {
+            "kda": 2.349378881987578,
+            "total_games": 110,
+            "win_rate": 0.509090909090909
+        }
+    },
+    "tinowns": {
+        "LeBlanc": {
+            "kda": 6.442857142857143,
+            "total_games": 30,
+            "win_rate": 0.7333333333333333
+        },
+        "Taliyah": {
+            "kda": 4.384,
+            "total_games": 31,
+            "win_rate": 0.6774193548387096
+        }
+    },
+    "Ricardownage": {
+        "Blitzcrank": {
+            "kda": 3.793594306049822,
+            "total_games": 64,
+            "win_rate": 0.703125
+        },
+        "Rek'Sai": {
+            "kda": 5.381720430107527,
+            "total_games": 57,
+            "win_rate": 0.7017543859649122
+        },
+        "Morgana": {
+            "kda": 3.898550724637681,
+            "total_games": 28,
+            "win_rate": 0.5714285714285714
+        }
+    },
+    "CNB HyperX Spek": {
+        "Nidalee": {
+            "kda": 4.345238095238095,
+            "total_games": 181,
+            "win_rate": 0.585635359116022
+        },
+        "Elise": {
+            "kda": 4.186147186147186,
+            "total_games": 70,
+            "win_rate": 0.5571428571428572
+        },
+        "Graves": {
+            "kda": 3.624615384615385,
+            "total_games": 176,
+            "win_rate": 0.5795454545454546
+        },
+        "Gragas": {
+            "kda": 3.7685185185185186,
+            "total_games": 32,
+            "win_rate": 0.53125
+        },
+        "Lee Sin": {
+            "kda": 3.6654804270462633,
+            "total_games": 69,
+            "win_rate": 0.5217391304347826
+        },
+        "Rek'Sai": {
+            "kda": 5.05531914893617,
+            "total_games": 88,
+            "win_rate": 0.6477272727272727
+        },
+        "Zed": {
+            "kda": 2.676470588235294,
+            "total_games": 41,
+            "win_rate": 0.5853658536585366
+        },
+        "Kindred": {
+            "kda": 2.925233644859813,
+            "total_games": 28,
+            "win_rate": 0.5
+        }
+    },
+    "style1": {
+        "Nidalee": {
+            "kda": 4.52510460251046,
+            "total_games": 139,
+            "win_rate": 0.5899280575539568
+        },
+        "LeBlanc": {
+            "kda": 4.853932584269663,
+            "total_games": 30,
+            "win_rate": 0.6333333333333333
+        },
+        "Elise": {
+            "kda": 4.248322147651007,
+            "total_games": 78,
+            "win_rate": 0.5641025641025641
+        },
+        "Gragas": {
+            "kda": 4.308943089430894,
+            "total_games": 37,
+            "win_rate": 0.5945945945945946
+        },
+        "Maokai": {
+            "kda": 3.2222222222222223,
+            "total_games": 26,
+            "win_rate": 0.5
+        },
+        "Kindred": {
+            "kda": 3.9917355371900825,
+            "total_games": 31,
+            "win_rate": 0.6774193548387096
+        }
+    },
+    "Chá Preto": {
+        "Evelynn": {
+            "kda": 3.3451295147756293,
+            "total_games": 540,
+            "win_rate": 0.6
+        },
+        "Zyra": {
+            "kda": 3.2527472527472527,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        },
+        "Zilean": {
+            "kda": 4.590604026845638,
+            "total_games": 49,
+            "win_rate": 0.5714285714285714
+        }
+    },
+    "Ninja28": {
+        "Brand": {
+            "kda": 2.204355108877722,
+            "total_games": 89,
+            "win_rate": 0.6179775280898876
+        },
+        "Janna": {
+            "kda": 3.3134328358208953,
+            "total_games": 64,
+            "win_rate": 0.53125
+        },
+        "Thresh": {
+            "kda": 3.069318181818182,
+            "total_games": 494,
+            "win_rate": 0.5789473684210527
+        },
+        "Braum": {
+            "kda": 3.3884892086330933,
+            "total_games": 121,
+            "win_rate": 0.5785123966942148
+        },
+        "Nami": {
+            "kda": 3.0881147540983607,
+            "total_games": 93,
+            "win_rate": 0.5698924731182796
+        },
+        "Lulu": {
+            "kda": 2.4583333333333335,
+            "total_games": 28,
+            "win_rate": 0.5
+        },
+        "Alistar": {
+            "kda": 2.9553072625698324,
+            "total_games": 36,
+            "win_rate": 0.5277777777777778
+        }
+    },
+    "SoloQ MECSM God": {
+        "Nidalee": {
+            "kda": 4.6716417910447765,
+            "total_games": 53,
+            "win_rate": 0.6792452830188679
+        },
+        "LeBlanc": {
+            "kda": 4.010989010989011,
+            "total_games": 51,
+            "win_rate": 0.6078431372549019
+        },
+        "Elise": {
+            "kda": 4.395833333333333,
+            "total_games": 36,
+            "win_rate": 0.6666666666666666
+        },
+        "Rek'Sai": {
+            "kda": 5.842105263157895,
+            "total_games": 25,
+            "win_rate": 0.68
+        },
+        "Lee Sin": {
+            "kda": 4.11783960720131,
+            "total_games": 149,
+            "win_rate": 0.5771812080536913
+        }
+    },
+    "um jovem do bem": {
+        "Katarina": {
+            "kda": 2.782608695652174,
+            "total_games": 43,
+            "win_rate": 0.5116279069767442
+        },
+        "Caitlyn": {
+            "kda": 2.1661341853035143,
+            "total_games": 50,
+            "win_rate": 0.56
+        },
+        "Ryze": {
+            "kda": 2.5822959889349932,
+            "total_games": 148,
+            "win_rate": 0.5608108108108109
+        },
+        "Shen": {
+            "kda": 3.873469387755102,
+            "total_games": 62,
+            "win_rate": 0.5
+        },
+        "Miss Fortune": {
+            "kda": 2.8411214953271027,
+            "total_games": 61,
+            "win_rate": 0.6065573770491803
+        },
+        "Zed": {
+            "kda": 2.331578947368421,
+            "total_games": 67,
+            "win_rate": 0.5671641791044776
+        },
+        "Poppy": {
+            "kda": 3.1264150943396225,
+            "total_games": 125,
+            "win_rate": 0.528
+        },
+        "Fiora": {
+            "kda": 2.509529366005445,
+            "total_games": 515,
+            "win_rate": 0.6135922330097088
+        }
+    },
+    "Oi eu sou negro": {
+        "Corki": {
+            "kda": 3.0476190476190474,
+            "total_games": 28,
+            "win_rate": 0.6785714285714286
+        },
+        "Lucian": {
+            "kda": 2.3550724637681157,
+            "total_games": 47,
+            "win_rate": 0.5106382978723404
+        },
+        "Caitlyn": {
+            "kda": 2.39375,
+            "total_games": 37,
+            "win_rate": 0.6216216216216216
+        },
+        "Jhin": {
+            "kda": 3.6633663366336635,
+            "total_games": 66,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "P A I K U H A N": {
+        "LeBlanc": {
+            "kda": 2.3685714285714288,
+            "total_games": 59,
+            "win_rate": 0.576271186440678
+        },
+        "Renekton": {
+            "kda": 2.4192982456140353,
+            "total_games": 217,
+            "win_rate": 0.6451612903225806
+        },
+        "Lucian": {
+            "kda": 2.1242937853107344,
+            "total_games": 30,
+            "win_rate": 0.5666666666666667
+        },
+        "Irelia": {
+            "kda": 2.2095238095238097,
+            "total_games": 38,
+            "win_rate": 0.6052631578947368
+        },
+        "Ezreal": {
+            "kda": 2.894308943089431,
+            "total_games": 46,
+            "win_rate": 0.6086956521739131
+        },
+        "Riven": {
+            "kda": 2.06140350877193,
+            "total_games": 93,
+            "win_rate": 0.5698924731182796
+        }
+    },
+    "Contadireita": {
+        "Lucian": {
+            "kda": 2.7049608355091386,
+            "total_games": 72,
+            "win_rate": 0.5
+        },
+        "Lee Sin": {
+            "kda": 2.3990384615384617,
+            "total_games": 35,
+            "win_rate": 0.5714285714285714
+        }
+    },
+    "Naboo": {
+        "Viktor": {
+            "kda": 2.9635854341736696,
+            "total_games": 66,
+            "win_rate": 0.696969696969697
+        },
+        "Twisted Fate": {
+            "kda": 3.0991735537190084,
+            "total_games": 44,
+            "win_rate": 0.6590909090909091
+        }
+    },
+    "micaO127": {
+        "Lucian": {
+            "kda": 2.8979933110367893,
+            "total_games": 115,
+            "win_rate": 0.5826086956521739
+        },
+        "Thresh": {
+            "kda": 2.9467455621301775,
+            "total_games": 33,
+            "win_rate": 0.5454545454545454
+        },
+        "Sivir": {
+            "kda": 2.8135135135135134,
+            "total_games": 77,
+            "win_rate": 0.5714285714285714
+        },
+        "Jhin": {
+            "kda": 3.9515570934256057,
+            "total_games": 71,
+            "win_rate": 0.6338028169014085
+        },
+        "Ashe": {
+            "kda": 3.0184331797235022,
+            "total_games": 91,
+            "win_rate": 0.5274725274725275
+        },
+        "Ezreal": {
+            "kda": 3.272300469483568,
+            "total_games": 84,
+            "win_rate": 0.6190476190476191
+        }
+    },
+    "Godpaice": {
+        "Zyra": {
+            "kda": 3.068,
+            "total_games": 45,
+            "win_rate": 0.6888888888888889
+        },
+        "Alistar": {
+            "kda": 4.757396449704142,
+            "total_games": 47,
+            "win_rate": 0.723404255319149
+        },
+        "Bard": {
+            "kda": 4.632478632478633,
+            "total_games": 59,
+            "win_rate": 0.6610169491525424
+        }
+    },
+    "Verminw": {
+        "Anivia": {
+            "kda": 4.992700729927007,
+            "total_games": 153,
+            "win_rate": 0.6209150326797386
+        },
+        "Warwick": {
+            "kda": 4.286585365853658,
+            "total_games": 54,
+            "win_rate": 0.5185185185185185
+        }
+    },
+    "danz0r408": {
+        "Lucian": {
+            "kda": 2.655889145496536,
+            "total_games": 93,
+            "win_rate": 0.5376344086021505
+        },
+        "Caitlyn": {
+            "kda": 2.513368983957219,
+            "total_games": 81,
+            "win_rate": 0.5185185185185185
+        },
+        "Twitch": {
+            "kda": 2.890322580645161,
+            "total_games": 27,
+            "win_rate": 0.6666666666666666
+        },
+        "Jhin": {
+            "kda": 3.4129353233830844,
+            "total_games": 88,
+            "win_rate": 0.5795454545454546
+        },
+        "Ashe": {
+            "kda": 2.723021582733813,
+            "total_games": 55,
+            "win_rate": 0.5818181818181818
+        },
+        "Tristana": {
+            "kda": 2.900763358778626,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Sivir": {
+            "kda": 2.955665024630542,
+            "total_games": 48,
+            "win_rate": 0.5208333333333334
+        },
+        "Ezreal": {
+            "kda": 3.770448548812665,
+            "total_games": 100,
+            "win_rate": 0.6
+        },
+        "Corki": {
+            "kda": 3.9574468085106385,
+            "total_games": 36,
+            "win_rate": 0.6666666666666666
+        },
+        "Jinx": {
+            "kda": 2.364341085271318,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        }
+    },
+    "BOOSTED ANlMAL": {
+        "Lissandra": {
+            "kda": 2.835714285714286,
+            "total_games": 29,
+            "win_rate": 0.5862068965517241
+        },
+        "LeBlanc": {
+            "kda": 3.190735694822888,
+            "total_games": 91,
+            "win_rate": 0.5384615384615384
+        },
+        "Aurelion Sol": {
+            "kda": 3.789808917197452,
+            "total_games": 35,
+            "win_rate": 0.6571428571428571
+        },
+        "Ryze": {
+            "kda": 2.7711598746081503,
+            "total_games": 66,
+            "win_rate": 0.5909090909090909
+        },
+        "Cassiopeia": {
+            "kda": 2.592233009708738,
+            "total_games": 56,
+            "win_rate": 0.6428571428571429
+        },
+        "Malzahar": {
+            "kda": 4.257142857142857,
+            "total_games": 31,
+            "win_rate": 0.7419354838709677
+        },
+        "Corki": {
+            "kda": 3.34,
+            "total_games": 25,
+            "win_rate": 0.72
+        },
+        "Viktor": {
+            "kda": 2.966666666666667,
+            "total_games": 32,
+            "win_rate": 0.625
+        },
+        "Azir": {
+            "kda": 2.9555555555555557,
+            "total_games": 50,
+            "win_rate": 0.72
+        }
+    },
+    "Flooder": {
+        "Lucian": {
+            "kda": 3.6448598130841123,
+            "total_games": 28,
+            "win_rate": 0.75
+        },
+        "Janna": {
+            "kda": 4.024590163934426,
+            "total_games": 38,
+            "win_rate": 0.5263157894736842
+        },
+        "Nautilus": {
+            "kda": 2.8724279835390947,
+            "total_games": 43,
+            "win_rate": 0.5581395348837209
+        },
+        "Bard": {
+            "kda": 3.909365558912387,
+            "total_games": 71,
+            "win_rate": 0.6197183098591549
+        },
+        "Karma": {
+            "kda": 3.6751054852320677,
+            "total_games": 54,
+            "win_rate": 0.6296296296296297
+        },
+        "Nami": {
+            "kda": 4.4411764705882355,
+            "total_games": 26,
+            "win_rate": 0.6923076923076923
+        },
+        "Leona": {
+            "kda": 3.3515625,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        }
+    },
+    "Pandog": {
+        "Elise": {
+            "kda": 3.8058252427184467,
+            "total_games": 49,
+            "win_rate": 0.5306122448979592
+        },
+        "Graves": {
+            "kda": 3.2153846153846155,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Amumu": {
+            "kda": 4.070093457943925,
+            "total_games": 53,
+            "win_rate": 0.5660377358490566
+        },
+        "Olaf": {
+            "kda": 3.951388888888889,
+            "total_games": 33,
+            "win_rate": 0.6363636363636364
+        },
+        "Vi": {
+            "kda": 3.704225352112676,
+            "total_games": 32,
+            "win_rate": 0.625
+        },
+        "Hecarim": {
+            "kda": 4.8076923076923075,
+            "total_games": 159,
+            "win_rate": 0.610062893081761
+        },
+        "Ahri": {
+            "kda": 2.3724696356275303,
+            "total_games": 45,
+            "win_rate": 0.5111111111111111
+        }
+    },
+    "Jugg Peacemaker": {
+        "Skarner": {
+            "kda": 3.676538908246225,
+            "total_games": 405,
+            "win_rate": 0.6395061728395062
+        },
+        "Hecarim": {
+            "kda": 3.151923076923077,
+            "total_games": 116,
+            "win_rate": 0.5172413793103449
+        }
+    },
+    "TRAVECO LOVES": {
+        "Kalista": {
+            "kda": 2.9523809523809526,
+            "total_games": 42,
+            "win_rate": 0.5
+        },
+        "Viktor": {
+            "kda": 3.2339449541284404,
+            "total_games": 53,
+            "win_rate": 0.6226415094339622
+        },
+        "Vayne": {
+            "kda": 2.772,
+            "total_games": 51,
+            "win_rate": 0.5294117647058824
+        },
+        "Jhin": {
+            "kda": 4.923076923076923,
+            "total_games": 33,
+            "win_rate": 0.7272727272727273
+        },
+        "Ezreal": {
+            "kda": 4.034188034188034,
+            "total_games": 33,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "Mudkiipz": {
+        "Elise": {
+            "kda": 4.0625,
+            "total_games": 41,
+            "win_rate": 0.6585365853658537
+        }
+    },
+    "Wintero": {
+        "Ryze": {
+            "kda": 2.3731656184486374,
+            "total_games": 83,
+            "win_rate": 0.6626506024096386
+        },
+        "Vel'Koz": {
+            "kda": 3.669865642994242,
+            "total_games": 116,
+            "win_rate": 0.5689655172413793
+        },
+        "Ezreal": {
+            "kda": 2.828125,
+            "total_games": 33,
+            "win_rate": 0.5151515151515151
+        },
+        "Alistar": {
+            "kda": 2.6784452296819787,
+            "total_games": 46,
+            "win_rate": 0.5869565217391305
+        },
+        "Syndra": {
+            "kda": 2.5383631713554986,
+            "total_games": 130,
+            "win_rate": 0.6153846153846154
+        },
+        "Ahri": {
+            "kda": 3.0086206896551726,
+            "total_games": 46,
+            "win_rate": 0.5869565217391305
+        }
+    },
+    "lllIIIIIlllllIII": {
+        "Ryze": {
+            "kda": 3.5925925925925926,
+            "total_games": 30,
+            "win_rate": 0.7666666666666667
+        }
+    },
+    "pbozinho": {
+        "Lucian": {
+            "kda": 2.790243902439024,
+            "total_games": 39,
+            "win_rate": 0.5384615384615384
+        },
+        "Caitlyn": {
+            "kda": 2.5031847133757963,
+            "total_games": 32,
+            "win_rate": 0.53125
+        },
+        "Jhin": {
+            "kda": 4.079365079365079,
+            "total_games": 29,
+            "win_rate": 0.7931034482758621
+        },
+        "Ashe": {
+            "kda": 2.5272727272727273,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        },
+        "Ezreal": {
+            "kda": 3.533333333333333,
+            "total_games": 30,
+            "win_rate": 0.5666666666666667
+        },
+        "Jinx": {
+            "kda": 2.9,
+            "total_games": 26,
+            "win_rate": 0.7307692307692307
+        }
+    },
+    "lima1 aka boss": {
+        "Nidalee": {
+            "kda": 4.821052631578947,
+            "total_games": 28,
+            "win_rate": 0.6071428571428571
+        },
+        "Evelynn": {
+            "kda": 4.054862842892768,
+            "total_games": 87,
+            "win_rate": 0.5977011494252874
+        },
+        "Elise": {
+            "kda": 3.9227166276346606,
+            "total_games": 101,
+            "win_rate": 0.6732673267326733
+        },
+        "Lee Sin": {
+            "kda": 4.2047244094488185,
+            "total_games": 32,
+            "win_rate": 0.625
+        }
+    },
+    "Anonymous Jungle": {
+        "Nidalee": {
+            "kda": 4.181159420289855,
+            "total_games": 31,
+            "win_rate": 0.8064516129032258
+        },
+        "Rek'Sai": {
+            "kda": 5.0703125,
+            "total_games": 37,
+            "win_rate": 0.8108108108108109
+        },
+        "Lee Sin": {
+            "kda": 3.386206896551724,
+            "total_games": 28,
+            "win_rate": 0.5714285714285714
+        }
+    },
+    "tinowns3": {
+        "Lucian": {
+            "kda": 3.325,
+            "total_games": 31,
+            "win_rate": 0.7096774193548387
+        },
+        "Ryze": {
+            "kda": 4.111940298507463,
+            "total_games": 37,
+            "win_rate": 0.6486486486486487
+        },
+        "Azir": {
+            "kda": 4.037313432835821,
+            "total_games": 39,
+            "win_rate": 0.7948717948717948
+        }
+    },
+    "Erasus": {
+        "Nidalee": {
+            "kda": 3.2215447154471546,
+            "total_games": 94,
+            "win_rate": 0.6382978723404256
+        },
+        "Brand": {
+            "kda": 2.2823529411764705,
+            "total_games": 28,
+            "win_rate": 0.5
+        },
+        "Rek'Sai": {
+            "kda": 3.8764044943820224,
+            "total_games": 44,
+            "win_rate": 0.5227272727272727
+        },
+        "Olaf": {
+            "kda": 3.7069767441860466,
+            "total_games": 43,
+            "win_rate": 0.6744186046511628
+        },
+        "Lee Sin": {
+            "kda": 3.0730050933786077,
+            "total_games": 534,
+            "win_rate": 0.5449438202247191
+        }
+    },
+    "Esdeath": {
+        "Lucian": {
+            "kda": 4.010752688172043,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Elise": {
+            "kda": 4.178217821782178,
+            "total_games": 25,
+            "win_rate": 0.72
+        }
+    },
+    "cabelorichard": {
+        "Zed": {
+            "kda": 2.5547619047619046,
+            "total_games": 72,
+            "win_rate": 0.6111111111111112
+        },
+        "Yasuo": {
+            "kda": 1.6931818181818181,
+            "total_games": 266,
+            "win_rate": 0.6090225563909775
+        },
+        "Fiora": {
+            "kda": 1.8317214700193423,
+            "total_games": 67,
+            "win_rate": 0.6119402985074627
+        }
+    },
+    "CavaloHumano": {
+        "Anivia": {
+            "kda": 2.52027027027027,
+            "total_games": 35,
+            "win_rate": 0.6
+        },
+        "Viktor": {
+            "kda": 2.9945355191256833,
+            "total_games": 42,
+            "win_rate": 0.6904761904761905
+        },
+        "Ryze": {
+            "kda": 2.486666666666667,
+            "total_games": 28,
+            "win_rate": 0.6785714285714286
+        },
+        "Kennen": {
+            "kda": 2.337748344370861,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Lee Sin": {
+            "kda": 3.050632911392405,
+            "total_games": 47,
+            "win_rate": 0.574468085106383
+        }
+    },
+    "Nice SoloQ Guy": {
+        "Jax": {
+            "kda": 2.0375586854460095,
+            "total_games": 33,
+            "win_rate": 0.5757575757575758
+        },
+        "Gangplank": {
+            "kda": 2.700389105058366,
+            "total_games": 51,
+            "win_rate": 0.5686274509803921
+        },
+        "Gnar": {
+            "kda": 2.030456852791878,
+            "total_games": 33,
+            "win_rate": 0.5454545454545454
+        },
+        "Trundle": {
+            "kda": 2.7194244604316546,
+            "total_games": 28,
+            "win_rate": 0.6071428571428571
+        },
+        "Irelia": {
+            "kda": 2.1810699588477367,
+            "total_games": 41,
+            "win_rate": 0.6097560975609756
+        },
+        "Fiora": {
+            "kda": 2.1415384615384614,
+            "total_games": 64,
+            "win_rate": 0.578125
+        },
+        "Rumble": {
+            "kda": 2.2745098039215685,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        }
+    },
+    "Zelgius": {
+        "Nidalee": {
+            "kda": 4.636065573770492,
+            "total_games": 99,
+            "win_rate": 0.7272727272727273
+        },
+        "Zac": {
+            "kda": 5.680327868852459,
+            "total_games": 40,
+            "win_rate": 0.7
+        },
+        "Ekko": {
+            "kda": 4.2631578947368425,
+            "total_games": 54,
+            "win_rate": 0.6481481481481481
+        },
+        "Blitzcrank": {
+            "kda": 3.414473684210526,
+            "total_games": 30,
+            "win_rate": 0.6
+        },
+        "Graves": {
+            "kda": 3.760180995475113,
+            "total_games": 54,
+            "win_rate": 0.5925925925925926
+        },
+        "Elise": {
+            "kda": 3.893700787401575,
+            "total_games": 68,
+            "win_rate": 0.6323529411764706
+        },
+        "Gragas": {
+            "kda": 4.801687763713081,
+            "total_games": 68,
+            "win_rate": 0.6470588235294118
+        },
+        "Lee Sin": {
+            "kda": 4.452316076294278,
+            "total_games": 99,
+            "win_rate": 0.696969696969697
+        },
+        "Rek'Sai": {
+            "kda": 4.146496815286624,
+            "total_games": 42,
+            "win_rate": 0.5476190476190477
+        }
+    },
+    "paiN Matsu": {
+        "Yasuo": {
+            "kda": 4.264,
+            "total_games": 46,
+            "win_rate": 0.8478260869565217
+        },
+        "Lucian": {
+            "kda": 3.8556701030927836,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Ezreal": {
+            "kda": 4.883040935672515,
+            "total_games": 64,
+            "win_rate": 0.671875
+        },
+        "Jhin": {
+            "kda": 5.984251968503937,
+            "total_games": 48,
+            "win_rate": 0.7916666666666666
+        },
+        "Ashe": {
+            "kda": 4.746268656716418,
+            "total_games": 25,
+            "win_rate": 0.68
+        }
+    },
+    "Akihabara": {
+        "Lucian": {
+            "kda": 5.543478260869565,
+            "total_games": 30,
+            "win_rate": 0.7333333333333333
+        },
+        "Ezreal": {
+            "kda": 5.794871794871795,
+            "total_games": 53,
+            "win_rate": 0.7358490566037735
+        },
+        "Jhin": {
+            "kda": 4.3979591836734695,
+            "total_games": 25,
+            "win_rate": 0.6
+        }
+    },
+    "marf": {
+        "LeBlanc": {
+            "kda": 2.688644688644689,
+            "total_games": 51,
+            "win_rate": 0.5098039215686274
+        },
+        "Taliyah": {
+            "kda": 2.870646766169154,
+            "total_games": 38,
+            "win_rate": 0.6052631578947368
+        },
+        "Karma": {
+            "kda": 3.206896551724138,
+            "total_games": 29,
+            "win_rate": 0.6896551724137931
+        },
+        "Elise": {
+            "kda": 2.734567901234568,
+            "total_games": 29,
+            "win_rate": 0.6551724137931034
+        },
+        "Jhin": {
+            "kda": 2.543307086614173,
+            "total_games": 25,
+            "win_rate": 0.6
+        }
+    },
+    "kyolols": {
+        "LeBlanc": {
+            "kda": 4.718232044198895,
+            "total_games": 52,
+            "win_rate": 0.6346153846153846
+        },
+        "Lucian": {
+            "kda": 2.6533333333333333,
+            "total_games": 50,
+            "win_rate": 0.6
+        },
+        "Vel'Koz": {
+            "kda": 4.150375939849624,
+            "total_games": 29,
+            "win_rate": 0.6551724137931034
+        },
+        "Ahri": {
+            "kda": 4.048387096774194,
+            "total_games": 65,
+            "win_rate": 0.6461538461538462
+        }
+    },
+    "Juggy the Lucky": {
+        "Skarner": {
+            "kda": 3.697092084006462,
+            "total_games": 289,
+            "win_rate": 0.7162629757785467
+        }
+    },
+    "Hy0g4": {
+        "Graves": {
+            "kda": 1.9631578947368422,
+            "total_games": 30,
+            "win_rate": 0.7
+        },
+        "Kha'Zix": {
+            "kda": 2.466575716234652,
+            "total_games": 112,
+            "win_rate": 0.6607142857142857
+        }
+    },
+    "1 Jugger": {
+        "Skarner": {
+            "kda": 3.3956191327670986,
+            "total_games": 1063,
+            "win_rate": 0.5766698024459078
+        }
+    },
+    "Mr Gildarts": {
+        "Ekko": {
+            "kda": 2.9411764705882355,
+            "total_games": 45,
+            "win_rate": 0.6
+        },
+        "Elise": {
+            "kda": 2.789855072463768,
+            "total_games": 72,
+            "win_rate": 0.5416666666666666
+        },
+        "Gragas": {
+            "kda": 4.057471264367816,
+            "total_games": 44,
+            "win_rate": 0.6136363636363636
+        },
+        "Olaf": {
+            "kda": 4.00990099009901,
+            "total_games": 26,
+            "win_rate": 0.8076923076923077
+        },
+        "Lee Sin": {
+            "kda": 3.149206349206349,
+            "total_games": 57,
+            "win_rate": 0.5964912280701754
+        },
+        "Rek'Sai": {
+            "kda": 4.084033613445378,
+            "total_games": 60,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "l Milo ": {
+        "Fiddlesticks": {
+            "kda": 2.90625,
+            "total_games": 28,
+            "win_rate": 0.5714285714285714
+        },
+        "Cassiopeia": {
+            "kda": 2.5707070707070705,
+            "total_games": 38,
+            "win_rate": 0.5789473684210527
+        },
+        "Viktor": {
+            "kda": 2.351981351981352,
+            "total_games": 77,
+            "win_rate": 0.5194805194805194
+        },
+        "Master Yi": {
+            "kda": 1.860259032038173,
+            "total_games": 202,
+            "win_rate": 0.5445544554455446
+        },
+        "Ekko": {
+            "kda": 2.2257142857142855,
+            "total_games": 56,
+            "win_rate": 0.5892857142857143
+        },
+        "Syndra": {
+            "kda": 2.7118226600985222,
+            "total_games": 80,
+            "win_rate": 0.6375
+        },
+        "LeBlanc": {
+            "kda": 2.7609254498714653,
+            "total_games": 78,
+            "win_rate": 0.5
+        },
+        "Twisted Fate": {
+            "kda": 2.5223880597014925,
+            "total_games": 81,
+            "win_rate": 0.6172839506172839
+        },
+        "Elise": {
+            "kda": 2.4302325581395348,
+            "total_games": 43,
+            "win_rate": 0.5581395348837209
+        },
+        "Talon": {
+            "kda": 2.2943548387096775,
+            "total_games": 39,
+            "win_rate": 0.6153846153846154
+        },
+        "Malzahar": {
+            "kda": 2.8564593301435406,
+            "total_games": 40,
+            "win_rate": 0.55
+        },
+        "Zed": {
+            "kda": 2.317171717171717,
+            "total_games": 87,
+            "win_rate": 0.5632183908045977
+        },
+        "Yasuo": {
+            "kda": 1.5518491660623641,
+            "total_games": 193,
+            "win_rate": 0.5595854922279793
+        },
+        "Fizz": {
+            "kda": 2.3285714285714287,
+            "total_games": 26,
+            "win_rate": 0.5
+        }
+    },
+    "Absolut1": {
+        "Lucian": {
+            "kda": 3.1344393592677346,
+            "total_games": 378,
+            "win_rate": 0.544973544973545
+        },
+        "Caitlyn": {
+            "kda": 3.032258064516129,
+            "total_games": 58,
+            "win_rate": 0.5689655172413793
+        },
+        "Sivir": {
+            "kda": 3.611111111111111,
+            "total_games": 45,
+            "win_rate": 0.5777777777777777
+        },
+        "Jhin": {
+            "kda": 3.452975047984645,
+            "total_games": 106,
+            "win_rate": 0.6132075471698113
+        },
+        "Ashe": {
+            "kda": 3.0945558739255015,
+            "total_games": 79,
+            "win_rate": 0.5822784810126582
+        },
+        "Lee Sin": {
+            "kda": 2.2058823529411766,
+            "total_games": 120,
+            "win_rate": 0.5083333333333333
+        },
+        "Kalista": {
+            "kda": 3.1123595505617976,
+            "total_games": 92,
+            "win_rate": 0.6195652173913043
+        },
+        "Twitch": {
+            "kda": 3.6847133757961785,
+            "total_games": 69,
+            "win_rate": 0.7246376811594203
+        },
+        "Ezreal": {
+            "kda": 3.5415117719950433,
+            "total_games": 186,
+            "win_rate": 0.5645161290322581
+        }
+    },
+    "OCK WISE TitaN": {
+        "Draven": {
+            "kda": 2.2838983050847457,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        },
+        "Lucian": {
+            "kda": 2.2924281984334205,
+            "total_games": 121,
+            "win_rate": 0.5206611570247934
+        },
+        "Ezreal": {
+            "kda": 2.6633663366336635,
+            "total_games": 99,
+            "win_rate": 0.5656565656565656
+        },
+        "Caitlyn": {
+            "kda": 2.734553775743707,
+            "total_games": 85,
+            "win_rate": 0.5882352941176471
+        },
+        "Sivir": {
+            "kda": 2.656862745098039,
+            "total_games": 36,
+            "win_rate": 0.75
+        },
+        "Elise": {
+            "kda": 2.3661971830985915,
+            "total_games": 30,
+            "win_rate": 0.5666666666666667
+        },
+        "Ashe": {
+            "kda": 2.5296296296296297,
+            "total_games": 45,
+            "win_rate": 0.6888888888888889
+        },
+        "Lee Sin": {
+            "kda": 2.230576441102757,
+            "total_games": 49,
+            "win_rate": 0.5306122448979592
+        },
+        "Vayne": {
+            "kda": 2.2688524590163937,
+            "total_games": 42,
+            "win_rate": 0.6666666666666666
+        },
+        "Bard": {
+            "kda": 2.4827586206896552,
+            "total_games": 26,
+            "win_rate": 0.5384615384615384
+        },
+        "Nidalee": {
+            "kda": 2.969849246231156,
+            "total_games": 63,
+            "win_rate": 0.5873015873015873
+        }
+    },
+    "HAF zeicro": {
+        "Tristana": {
+            "kda": 2.9411764705882355,
+            "total_games": 34,
+            "win_rate": 0.5882352941176471
+        },
+        "Lucian": {
+            "kda": 2.884437596302003,
+            "total_games": 123,
+            "win_rate": 0.5528455284552846
+        },
+        "Caitlyn": {
+            "kda": 2.3839479392624727,
+            "total_games": 86,
+            "win_rate": 0.5
+        },
+        "Sivir": {
+            "kda": 2.9127906976744184,
+            "total_games": 35,
+            "win_rate": 0.6285714285714286
+        },
+        "Jhin": {
+            "kda": 3.4,
+            "total_games": 64,
+            "win_rate": 0.5625
+        },
+        "Ashe": {
+            "kda": 2.7091836734693877,
+            "total_games": 33,
+            "win_rate": 0.5454545454545454
+        },
+        "Corki": {
+            "kda": 2.8448275862068964,
+            "total_games": 32,
+            "win_rate": 0.59375
+        },
+        "Ezreal": {
+            "kda": 3.2264437689969605,
+            "total_games": 150,
+            "win_rate": 0.54
+        }
+    },
+    "PRG Goku": {
+        "LeBlanc": {
+            "kda": 4.2824858757062145,
+            "total_games": 49,
+            "win_rate": 0.6938775510204082
+        },
+        "Cassiopeia": {
+            "kda": 3.425531914893617,
+            "total_games": 26,
+            "win_rate": 0.7307692307692307
+        },
+        "Ryze": {
+            "kda": 3.087719298245614,
+            "total_games": 30,
+            "win_rate": 0.6333333333333333
+        }
+    },
+    "Amam1ya Sora": {
+        "Elise": {
+            "kda": 4.566666666666666,
+            "total_games": 79,
+            "win_rate": 0.7215189873417721
+        }
+    },
+    "Victinz": {
+        "Lucian": {
+            "kda": 2.8272425249169437,
+            "total_games": 61,
+            "win_rate": 0.5737704918032787
+        },
+        "Janna": {
+            "kda": 4.753303964757709,
+            "total_games": 126,
+            "win_rate": 0.6746031746031746
+        },
+        "Morgana": {
+            "kda": 3.0970149253731343,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        }
+    },
+    "Scintilla": {
+        "Karma": {
+            "kda": 4.84,
+            "total_games": 26,
+            "win_rate": 0.5
+        },
+        "Thresh": {
+            "kda": 4.379084967320262,
+            "total_games": 40,
+            "win_rate": 0.75
+        },
+        "Morgana": {
+            "kda": 5.2457142857142856,
+            "total_games": 52,
+            "win_rate": 0.6923076923076923
+        },
+        "Bard": {
+            "kda": 4.892744479495268,
+            "total_games": 94,
+            "win_rate": 0.776595744680851
+        }
+    },
+    "ItsMeSirT": {
+        "Nidalee": {
+            "kda": 3.7162162162162162,
+            "total_games": 32,
+            "win_rate": 0.65625
+        },
+        "Rek'Sai": {
+            "kda": 4.043956043956044,
+            "total_games": 25,
+            "win_rate": 0.6
+        },
+        "Graves": {
+            "kda": 3.185840707964602,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Lee Sin": {
+            "kda": 3.981042654028436,
+            "total_games": 44,
+            "win_rate": 0.75
+        }
+    },
+    "Loopi": {
+        "Thresh": {
+            "kda": 3.2901785714285716,
+            "total_games": 49,
+            "win_rate": 0.5918367346938775
+        },
+        "Braum": {
+            "kda": 4.310975609756097,
+            "total_games": 43,
+            "win_rate": 0.6511627906976745
+        },
+        "Bard": {
+            "kda": 3.317241379310345,
+            "total_games": 30,
+            "win_rate": 0.7
+        },
+        "Taric": {
+            "kda": 3.983050847457627,
+            "total_games": 29,
+            "win_rate": 0.7241379310344828
+        },
+        "Nami": {
+            "kda": 4.778846153846154,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Lulu": {
+            "kda": 3.9454545454545453,
+            "total_games": 27,
+            "win_rate": 0.6666666666666666
+        },
+        "Alistar": {
+            "kda": 3.339622641509434,
+            "total_games": 39,
+            "win_rate": 0.5897435897435898
+        }
+    },
+    "Cas The Sheep": {
+        "Lux": {
+            "kda": 2.688953488372093,
+            "total_games": 55,
+            "win_rate": 0.6909090909090909
+        },
+        "Cassiopeia": {
+            "kda": 2.2330827067669174,
+            "total_games": 72,
+            "win_rate": 0.5972222222222222
+        },
+        "Corki": {
+            "kda": 2.212990936555891,
+            "total_games": 101,
+            "win_rate": 0.5346534653465347
+        },
+        "Taliyah": {
+            "kda": 2.4859335038363173,
+            "total_games": 61,
+            "win_rate": 0.5737704918032787
+        },
+        "Viktor": {
+            "kda": 2.3603960396039603,
+            "total_games": 85,
+            "win_rate": 0.5529411764705883
+        },
+        "Azir": {
+            "kda": 1.9236760124610592,
+            "total_games": 101,
+            "win_rate": 0.5742574257425742
+        }
+    },
+    "DzzzzzN": {
+        "Nidalee": {
+            "kda": 2.8875,
+            "total_games": 59,
+            "win_rate": 0.5254237288135594
+        },
+        "Rengar": {
+            "kda": 3.1617130073505915,
+            "total_games": 557,
+            "win_rate": 0.6086175942549371
+        }
+    },
+    "be decisive": {
+        "Lissandra": {
+            "kda": 3.1893617021276595,
+            "total_games": 92,
+            "win_rate": 0.5978260869565217
+        },
+        "Vladimir": {
+            "kda": 2.449814126394052,
+            "total_games": 45,
+            "win_rate": 0.6
+        },
+        "Riven": {
+            "kda": 2.4527027027027026,
+            "total_games": 28,
+            "win_rate": 0.6785714285714286
+        },
+        "Irelia": {
+            "kda": 2.1666666666666665,
+            "total_games": 39,
+            "win_rate": 0.5641025641025641
+        },
+        "Fiora": {
+            "kda": 2.202099737532808,
+            "total_games": 71,
+            "win_rate": 0.5915492957746479
+        },
+        "Illaoi": {
+            "kda": 2.1241935483870966,
+            "total_games": 111,
+            "win_rate": 0.5675675675675675
+        },
+        "Zed": {
+            "kda": 2.486090775988287,
+            "total_games": 125,
+            "win_rate": 0.52
+        },
+        "Poppy": {
+            "kda": 3.0310077519379846,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Ahri": {
+            "kda": 3.1182108626198084,
+            "total_games": 59,
+            "win_rate": 0.5932203389830508
+        }
+    },
+    "Zuaozito": {
+        "Ekko": {
+            "kda": 3.6611570247933884,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Elise": {
+            "kda": 3.40625,
+            "total_games": 38,
+            "win_rate": 0.6052631578947368
+        },
+        "Graves": {
+            "kda": 3.5755395683453237,
+            "total_games": 33,
+            "win_rate": 0.6363636363636364
+        },
+        "Rek'Sai": {
+            "kda": 4.560283687943262,
+            "total_games": 38,
+            "win_rate": 0.6842105263157895
+        },
+        "Gragas": {
+            "kda": 5.138686131386861,
+            "total_games": 35,
+            "win_rate": 0.6857142857142857
+        }
+    },
+    "dogla la dogla": {
+        "Lissandra": {
+            "kda": 2.848101265822785,
+            "total_games": 37,
+            "win_rate": 0.6756756756756757
+        },
+        "Shen": {
+            "kda": 5.013513513513513,
+            "total_games": 26,
+            "win_rate": 0.5384615384615384
+        },
+        "Jayce": {
+            "kda": 3.2797202797202796,
+            "total_games": 38,
+            "win_rate": 0.7894736842105263
+        },
+        "Rumble": {
+            "kda": 3.8585365853658535,
+            "total_games": 64,
+            "win_rate": 0.65625
+        },
+        "Gnar": {
+            "kda": 3.3442622950819674,
+            "total_games": 79,
+            "win_rate": 0.569620253164557
+        },
+        "Kennen": {
+            "kda": 3.096590909090909,
+            "total_games": 48,
+            "win_rate": 0.6458333333333334
+        },
+        "Kayle": {
+            "kda": 2.896,
+            "total_games": 35,
+            "win_rate": 0.6
+        },
+        "Yasuo": {
+            "kda": 2.1463414634146343,
+            "total_games": 25,
+            "win_rate": 0.6
+        },
+        "Poppy": {
+            "kda": 4.486111111111111,
+            "total_games": 26,
+            "win_rate": 0.7692307692307693
+        }
+    },
+    "APG Kveeykva": {
+        "Lissandra": {
+            "kda": 2.7419354838709675,
+            "total_games": 59,
+            "win_rate": 0.6271186440677966
+        },
+        "Quinn": {
+            "kda": 2.3426573426573425,
+            "total_games": 29,
+            "win_rate": 0.6551724137931034
+        },
+        "Gnar": {
+            "kda": 2.3958333333333335,
+            "total_games": 43,
+            "win_rate": 0.627906976744186
+        },
+        "Bard": {
+            "kda": 3.3917525773195876,
+            "total_games": 62,
+            "win_rate": 0.5967741935483871
+        },
+        "Irelia": {
+            "kda": 2.3317757009345796,
+            "total_games": 44,
+            "win_rate": 0.5
+        },
+        "Jayce": {
+            "kda": 2.4784172661870505,
+            "total_games": 60,
+            "win_rate": 0.6666666666666666
+        },
+        "Poppy": {
+            "kda": 3.6666666666666665,
+            "total_games": 57,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "snitnaZ": {
+        "Jax": {
+            "kda": 2.2148760330578514,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Gnar": {
+            "kda": 2.7796610169491527,
+            "total_games": 25,
+            "win_rate": 0.56
+        }
+    },
+    "um mono lux ai": {
+        "Nidalee": {
+            "kda": 3.63125,
+            "total_games": 36,
+            "win_rate": 0.6944444444444444
+        },
+        "Lux": {
+            "kda": 4.142857142857143,
+            "total_games": 25,
+            "win_rate": 0.64
+        },
+        "Zyra": {
+            "kda": 2.25,
+            "total_games": 75,
+            "win_rate": 0.56
+        },
+        "Elise": {
+            "kda": 3.0704225352112675,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Bard": {
+            "kda": 2.917874396135266,
+            "total_games": 35,
+            "win_rate": 0.5142857142857142
+        },
+        "Karma": {
+            "kda": 4.1265822784810124,
+            "total_games": 35,
+            "win_rate": 0.7142857142857143
+        }
+    },
+    "Uriinho": {
+        "Lissandra": {
+            "kda": 3.1981981981981984,
+            "total_games": 29,
+            "win_rate": 0.5172413793103449
+        },
+        "LeBlanc": {
+            "kda": 4.63681592039801,
+            "total_games": 65,
+            "win_rate": 0.6923076923076923
+        },
+        "Twisted Fate": {
+            "kda": 4.532846715328467,
+            "total_games": 40,
+            "win_rate": 0.7
+        },
+        "Orianna": {
+            "kda": 4.125,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        },
+        "Ezreal": {
+            "kda": 2.9352941176470586,
+            "total_games": 36,
+            "win_rate": 0.5277777777777778
+        },
+        "Kassadin": {
+            "kda": 4.0,
+            "total_games": 25,
+            "win_rate": 0.56
+        },
+        "Viktor": {
+            "kda": 3.798780487804878,
+            "total_games": 49,
+            "win_rate": 0.5510204081632653
+        },
+        "Aurelion Sol": {
+            "kda": 3.0822784810126582,
+            "total_games": 34,
+            "win_rate": 0.5588235294117647
+        }
+    },
+    "Pai Sessh": {
+        "Nidalee": {
+            "kda": 3.572769953051643,
+            "total_games": 49,
+            "win_rate": 0.5714285714285714
+        },
+        "Elise": {
+            "kda": 2.7293233082706765,
+            "total_games": 48,
+            "win_rate": 0.5
+        },
+        "Graves": {
+            "kda": 3.0319488817891376,
+            "total_games": 61,
+            "win_rate": 0.639344262295082
+        },
+        "Gragas": {
+            "kda": 4.047058823529412,
+            "total_games": 46,
+            "win_rate": 0.5869565217391305
+        },
+        "Lee Sin": {
+            "kda": 3.1204188481675392,
+            "total_games": 38,
+            "win_rate": 0.5
+        },
+        "Rek'Sai": {
+            "kda": 3.678756476683938,
+            "total_games": 49,
+            "win_rate": 0.5918367346938775
+        },
+        "Kindred": {
+            "kda": 3.1943127962085307,
+            "total_games": 51,
+            "win_rate": 0.803921568627451
+        }
+    },
+    "0101101010101": {
+        "LeBlanc": {
+            "kda": 3.7037037037037037,
+            "total_games": 52,
+            "win_rate": 0.6153846153846154
+        },
+        "Ezreal": {
+            "kda": 2.9262295081967213,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Vel'Koz": {
+            "kda": 3.5642857142857145,
+            "total_games": 58,
+            "win_rate": 0.6724137931034483
+        },
+        "Morgana": {
+            "kda": 3.4242424242424243,
+            "total_games": 56,
+            "win_rate": 0.5535714285714286
+        },
+        "Annie": {
+            "kda": 3.5,
+            "total_games": 25,
+            "win_rate": 0.76
+        }
+    },
+    "MC DYNQUEDO": {
+        "Lissandra": {
+            "kda": 3.290909090909091,
+            "total_games": 40,
+            "win_rate": 0.575
+        },
+        "Ryze": {
+            "kda": 3.347639484978541,
+            "total_games": 56,
+            "win_rate": 0.625
+        },
+        "Vladimir": {
+            "kda": 2.9133333333333336,
+            "total_games": 36,
+            "win_rate": 0.6388888888888888
+        },
+        "Cassiopeia": {
+            "kda": 3.476470588235294,
+            "total_games": 82,
+            "win_rate": 0.5365853658536586
+        },
+        "Viktor": {
+            "kda": 3.382262996941896,
+            "total_games": 83,
+            "win_rate": 0.5421686746987951
+        },
+        "Azir": {
+            "kda": 3.7690677966101696,
+            "total_games": 121,
+            "win_rate": 0.628099173553719
+        },
+        "LeBlanc": {
+            "kda": 3.5153846153846153,
+            "total_games": 94,
+            "win_rate": 0.5106382978723404
+        },
+        "Lucian": {
+            "kda": 2.802469135802469,
+            "total_games": 87,
+            "win_rate": 0.5057471264367817
+        },
+        "Thresh": {
+            "kda": 2.28,
+            "total_games": 39,
+            "win_rate": 0.5384615384615384
+        },
+        "Kha'Zix": {
+            "kda": 3.3160377358490565,
+            "total_games": 48,
+            "win_rate": 0.5833333333333334
+        },
+        "Taliyah": {
+            "kda": 3.136,
+            "total_games": 46,
+            "win_rate": 0.5434782608695652
+        },
+        "Jayce": {
+            "kda": 2.8380952380952382,
+            "total_games": 25,
+            "win_rate": 0.64
+        },
+        "Zed": {
+            "kda": 2.6973478939157567,
+            "total_games": 140,
+            "win_rate": 0.55
+        },
+        "Ahri": {
+            "kda": 3.745967741935484,
+            "total_games": 63,
+            "win_rate": 0.6031746031746031
+        }
+    },
+    "iBlair": {
+        "Nidalee": {
+            "kda": 3.9012048192771083,
+            "total_games": 100,
+            "win_rate": 0.59
+        },
+        "LeBlanc": {
+            "kda": 4.815533980582524,
+            "total_games": 55,
+            "win_rate": 0.6727272727272727
+        },
+        "Ekko": {
+            "kda": 3.152892561983471,
+            "total_games": 48,
+            "win_rate": 0.625
+        },
+        "Taliyah": {
+            "kda": 3.1575342465753424,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        }
+    },
+    "FDG Sudden": {
+        "Morgana": {
+            "kda": 3.611743119266055,
+            "total_games": 626,
+            "win_rate": 0.5734824281150159
+        },
+        "Karma": {
+            "kda": 3.0473933649289098,
+            "total_games": 41,
+            "win_rate": 0.5853658536585366
+        },
+        "Elise": {
+            "kda": 2.7132867132867133,
+            "total_games": 26,
+            "win_rate": 0.5
+        },
+        "Blitzcrank": {
+            "kda": 2.918840579710145,
+            "total_games": 67,
+            "win_rate": 0.6268656716417911
+        }
+    },
+    "E4M Asking ": {
+        "Orianna": {
+            "kda": 3.3344709897610922,
+            "total_games": 61,
+            "win_rate": 0.6557377049180327
+        },
+        "Sona": {
+            "kda": 2.685279187817259,
+            "total_games": 32,
+            "win_rate": 0.5625
+        },
+        "Ahri": {
+            "kda": 3.604651162790698,
+            "total_games": 92,
+            "win_rate": 0.6847826086956522
+        }
+    },
+    "Codpieces": {
+        "Orianna": {
+            "kda": 3.4692307692307693,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Janna": {
+            "kda": 3.8528138528138527,
+            "total_games": 67,
+            "win_rate": 0.582089552238806
+        },
+        "Zyra": {
+            "kda": 2.329153605015674,
+            "total_games": 52,
+            "win_rate": 0.5576923076923077
+        },
+        "Thresh": {
+            "kda": 3.0691244239631335,
+            "total_games": 53,
+            "win_rate": 0.5094339622641509
+        },
+        "Bard": {
+            "kda": 3.4038095238095236,
+            "total_games": 113,
+            "win_rate": 0.6548672566371682
+        },
+        "Poppy": {
+            "kda": 2.98974358974359,
+            "total_games": 52,
+            "win_rate": 0.5769230769230769
+        },
+        "Karma": {
+            "kda": 3.4973958333333335,
+            "total_games": 89,
+            "win_rate": 0.5730337078651685
+        },
+        "Nami": {
+            "kda": 3.375586854460094,
+            "total_games": 43,
+            "win_rate": 0.5348837209302325
+        },
+        "Morgana": {
+            "kda": 3.05,
+            "total_games": 34,
+            "win_rate": 0.5294117647058824
+        },
+        "Braum": {
+            "kda": 3.5847457627118646,
+            "total_games": 55,
+            "win_rate": 0.6
+        }
+    },
+    "BRAVE Cabuzin": {
+        "Janna": {
+            "kda": 2.9274193548387095,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        },
+        "Thresh": {
+            "kda": 3.308970099667774,
+            "total_games": 186,
+            "win_rate": 0.5806451612903226
+        },
+        "Braum": {
+            "kda": 2.9339080459770117,
+            "total_games": 69,
+            "win_rate": 0.5217391304347826
+        },
+        "Bard": {
+            "kda": 3.4472190692395004,
+            "total_games": 174,
+            "win_rate": 0.6091954022988506
+        },
+        "Lee Sin": {
+            "kda": 3.335227272727273,
+            "total_games": 33,
+            "win_rate": 0.5151515151515151
+        },
+        "Alistar": {
+            "kda": 3.8149253731343284,
+            "total_games": 77,
+            "win_rate": 0.6363636363636364
+        },
+        "Morgana": {
+            "kda": 3.5166051660516606,
+            "total_games": 110,
+            "win_rate": 0.5909090909090909
+        }
+    },
+    "JEON JUNGKOOKlE": {
+        "Bard": {
+            "kda": 3.6944444444444446,
+            "total_games": 41,
+            "win_rate": 0.7317073170731707
+        },
+        "Thresh": {
+            "kda": 3.5497630331753554,
+            "total_games": 49,
+            "win_rate": 0.5714285714285714
+        },
+        "Ahri": {
+            "kda": 3.986111111111111,
+            "total_games": 40,
+            "win_rate": 0.65
+        }
+    },
+    "zAvenger": {
+        "LeBlanc": {
+            "kda": 3.4654654654654653,
+            "total_games": 352,
+            "win_rate": 0.5369318181818182
+        },
+        "Lucian": {
+            "kda": 2.846341463414634,
+            "total_games": 86,
+            "win_rate": 0.5
+        },
+        "Talon": {
+            "kda": 2.796116504854369,
+            "total_games": 48,
+            "win_rate": 0.6875
+        },
+        "Irelia": {
+            "kda": 2.6037735849056602,
+            "total_games": 36,
+            "win_rate": 0.5277777777777778
+        },
+        "Riven": {
+            "kda": 2.3,
+            "total_games": 28,
+            "win_rate": 0.5714285714285714
+        },
+        "Kassadin": {
+            "kda": 3.1943371943371943,
+            "total_games": 158,
+            "win_rate": 0.5759493670886076
+        },
+        "Rek'Sai": {
+            "kda": 3.3609022556390977,
+            "total_games": 30,
+            "win_rate": 0.6666666666666666
+        },
+        "Zed": {
+            "kda": 2.831818181818182,
+            "total_games": 41,
+            "win_rate": 0.5853658536585366
+        },
+        "Fizz": {
+            "kda": 2.9450354609929077,
+            "total_games": 104,
+            "win_rate": 0.5288461538461539
+        }
+    },
+    "xGuiL": {
+        "Lissandra": {
+            "kda": 2.1951219512195124,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Zac": {
+            "kda": 3.5517241379310347,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Ekko": {
+            "kda": 2.1086350974930363,
+            "total_games": 62,
+            "win_rate": 0.6129032258064516
+        },
+        "Rumble": {
+            "kda": 2.0569620253164556,
+            "total_games": 45,
+            "win_rate": 0.5555555555555556
+        },
+        "Irelia": {
+            "kda": 2.0548780487804876,
+            "total_games": 27,
+            "win_rate": 0.5555555555555556
+        },
+        "Jayce": {
+            "kda": 2.295165394402036,
+            "total_games": 64,
+            "win_rate": 0.5625
+        },
+        "Malphite": {
+            "kda": 3.072,
+            "total_games": 28,
+            "win_rate": 0.6428571428571429
+        },
+        "Fiora": {
+            "kda": 1.6495956873315365,
+            "total_games": 57,
+            "win_rate": 0.631578947368421
+        }
+    },
+    "i will ryze": {
+        "Soraka": {
+            "kda": 2.9855072463768115,
+            "total_games": 27,
+            "win_rate": 0.6296296296296297
+        },
+        "Fiddlesticks": {
+            "kda": 3.2142857142857144,
+            "total_games": 29,
+            "win_rate": 0.5172413793103449
+        },
+        "Karthus": {
+            "kda": 2.396039603960396,
+            "total_games": 33,
+            "win_rate": 0.6060606060606061
+        }
+    },
+    "NEX Coyote": {
+        "Orianna": {
+            "kda": 3.4622641509433962,
+            "total_games": 27,
+            "win_rate": 0.5925925925925926
+        },
+        "Vladimir": {
+            "kda": 2.651282051282051,
+            "total_games": 41,
+            "win_rate": 0.5121951219512195
+        },
+        "Gangplank": {
+            "kda": 4.189024390243903,
+            "total_games": 42,
+            "win_rate": 0.6666666666666666
+        },
+        "Cassiopeia": {
+            "kda": 3.196261682242991,
+            "total_games": 45,
+            "win_rate": 0.6
+        },
+        "Viktor": {
+            "kda": 3.174757281553398,
+            "total_games": 71,
+            "win_rate": 0.5352112676056338
+        },
+        "Syndra": {
+            "kda": 3.0,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        },
+        "LeBlanc": {
+            "kda": 3.402061855670103,
+            "total_games": 69,
+            "win_rate": 0.5362318840579711
+        },
+        "Aurelion Sol": {
+            "kda": 2.9833333333333334,
+            "total_games": 36,
+            "win_rate": 0.5555555555555556
+        },
+        "Malzahar": {
+            "kda": 2.654970760233918,
+            "total_games": 34,
+            "win_rate": 0.6176470588235294
+        },
+        "Taliyah": {
+            "kda": 2.9837587006960558,
+            "total_games": 81,
+            "win_rate": 0.5308641975308642
+        },
+        "Jayce": {
+            "kda": 3.4125,
+            "total_games": 33,
+            "win_rate": 0.6363636363636364
+        },
+        "Ezreal": {
+            "kda": 3.1503759398496243,
+            "total_games": 57,
+            "win_rate": 0.5087719298245614
+        },
+        "Ahri": {
+            "kda": 3.548076923076923,
+            "total_games": 25,
+            "win_rate": 0.56
+        }
+    },
+    "lima1yo": {
+        "Evelynn": {
+            "kda": 5.112244897959184,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        },
+        "Elise": {
+            "kda": 3.8218623481781377,
+            "total_games": 54,
+            "win_rate": 0.5925925925925926
+        },
+        "Olaf": {
+            "kda": 5.411214953271028,
+            "total_games": 36,
+            "win_rate": 0.8055555555555556
+        },
+        "Lee Sin": {
+            "kda": 4.1066666666666665,
+            "total_games": 32,
+            "win_rate": 0.53125
+        }
+    },
+    "i wanna jungle": {
+        "Nidalee": {
+            "kda": 3.3842105263157896,
+            "total_games": 156,
+            "win_rate": 0.5769230769230769
+        },
+        "Zac": {
+            "kda": 4.698529411764706,
+            "total_games": 32,
+            "win_rate": 0.53125
+        },
+        "Thresh": {
+            "kda": 2.6099290780141846,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        },
+        "Graves": {
+            "kda": 3.3807692307692307,
+            "total_games": 55,
+            "win_rate": 0.6181818181818182
+        },
+        "Elise": {
+            "kda": 3.4856839872746552,
+            "total_games": 191,
+            "win_rate": 0.6230366492146597
+        },
+        "Gragas": {
+            "kda": 3.648936170212766,
+            "total_games": 109,
+            "win_rate": 0.6055045871559633
+        },
+        "Lee Sin": {
+            "kda": 3.5550161812297736,
+            "total_games": 131,
+            "win_rate": 0.6106870229007634
+        },
+        "Ezreal": {
+            "kda": 3.411764705882353,
+            "total_games": 41,
+            "win_rate": 0.5853658536585366
+        },
+        "Rek'Sai": {
+            "kda": 4.209702660406886,
+            "total_games": 167,
+            "win_rate": 0.562874251497006
+        },
+        "Alistar": {
+            "kda": 3.686868686868687,
+            "total_games": 42,
+            "win_rate": 0.6904761904761905
+        },
+        "Kindred": {
+            "kda": 2.7,
+            "total_games": 54,
+            "win_rate": 0.5
+        }
+    },
+    "OPK Akrinuss NC": {
+        "Lucian": {
+            "kda": 2.508771929824561,
+            "total_games": 46,
+            "win_rate": 0.6521739130434783
+        },
+        "Nautilus": {
+            "kda": 2.8768939393939394,
+            "total_games": 101,
+            "win_rate": 0.6138613861386139
+        },
+        "Rumble": {
+            "kda": 2.245,
+            "total_games": 28,
+            "win_rate": 0.6071428571428571
+        },
+        "Maokai": {
+            "kda": 2.9804878048780488,
+            "total_games": 125,
+            "win_rate": 0.592
+        },
+        "Irelia": {
+            "kda": 2.062146892655367,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        },
+        "Ezreal": {
+            "kda": 2.676470588235294,
+            "total_games": 32,
+            "win_rate": 0.71875
+        },
+        "Jayce": {
+            "kda": 2.2717948717948717,
+            "total_games": 31,
+            "win_rate": 0.6774193548387096
+        },
+        "Fiora": {
+            "kda": 1.8100558659217878,
+            "total_games": 30,
+            "win_rate": 0.6
+        }
+    },
+    "CNB HyperX Wos": {
+        "Karma": {
+            "kda": 4.678082191780822,
+            "total_games": 41,
+            "win_rate": 0.7560975609756098
+        },
+        "Alistar": {
+            "kda": 4.385245901639344,
+            "total_games": 63,
+            "win_rate": 0.5873015873015873
+        },
+        "Thresh": {
+            "kda": 3.2014652014652016,
+            "total_games": 49,
+            "win_rate": 0.5714285714285714
+        },
+        "Morgana": {
+            "kda": 3.7903225806451615,
+            "total_games": 40,
+            "win_rate": 0.625
+        }
+    },
+    "bigpepe": {
+        "Evelynn": {
+            "kda": 3.8621867881548977,
+            "total_games": 179,
+            "win_rate": 0.659217877094972
+        }
+    },
+    "Hastad é um Lixo": {
+        "Zac": {
+            "kda": 4.05050505050505,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Malphite": {
+            "kda": 2.9559082892416226,
+            "total_games": 120,
+            "win_rate": 0.5833333333333334
+        },
+        "Thresh": {
+            "kda": 3.5342465753424657,
+            "total_games": 34,
+            "win_rate": 0.6470588235294118
+        },
+        "Alistar": {
+            "kda": 2.9635036496350367,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Pantheon": {
+            "kda": 2.4966216216216215,
+            "total_games": 47,
+            "win_rate": 0.6170212765957447
+        },
+        "Blitzcrank": {
+            "kda": 2.9845779220779223,
+            "total_games": 259,
+            "win_rate": 0.5444015444015444
+        }
+    },
+    "who could it be": {
+        "Nidalee": {
+            "kda": 3.911764705882353,
+            "total_games": 48,
+            "win_rate": 0.6666666666666666
+        },
+        "Lee Sin": {
+            "kda": 3.6129032258064515,
+            "total_games": 43,
+            "win_rate": 0.5581395348837209
+        }
+    },
+    "Bl4keouS": {
+        "Shen": {
+            "kda": 3.7282608695652173,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Vel'Koz": {
+            "kda": 3.626190476190476,
+            "total_games": 201,
+            "win_rate": 0.5920398009950248
+        },
+        "Morgana": {
+            "kda": 3.158590308370044,
+            "total_games": 46,
+            "win_rate": 0.6086956521739131
+        }
+    },
+    "pimpimenta": {
+        "Orianna": {
+            "kda": 2.1732522796352582,
+            "total_games": 55,
+            "win_rate": 0.6
+        },
+        "LeBlanc": {
+            "kda": 2.625,
+            "total_games": 50,
+            "win_rate": 0.58
+        },
+        "Shaco": {
+            "kda": 2.6153846153846154,
+            "total_games": 187,
+            "win_rate": 0.6042780748663101
+        },
+        "Kha'Zix": {
+            "kda": 2.4555555555555557,
+            "total_games": 30,
+            "win_rate": 0.6
+        }
+    },
+    "HKS Caos": {
+        "Evelynn": {
+            "kda": 4.152380952380953,
+            "total_games": 25,
+            "win_rate": 0.56
+        },
+        "Nidalee": {
+            "kda": 3.5723684210526314,
+            "total_games": 36,
+            "win_rate": 0.6111111111111112
+        },
+        "Rek'Sai": {
+            "kda": 4.391812865497076,
+            "total_games": 96,
+            "win_rate": 0.5520833333333334
+        },
+        "Elise": {
+            "kda": 4.1069182389937104,
+            "total_games": 78,
+            "win_rate": 0.5641025641025641
+        },
+        "Gragas": {
+            "kda": 4.612244897959184,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        }
+    },
+    "Tirano Otakinhu": {
+        "Jax": {
+            "kda": 2.5703125,
+            "total_games": 28,
+            "win_rate": 0.5357142857142857
+        },
+        "Tryndamere": {
+            "kda": 3.8306878306878307,
+            "total_games": 227,
+            "win_rate": 0.6519823788546255
+        }
+    },
+    "Kendall Jenner": {
+        "Lissandra": {
+            "kda": 2.442953020134228,
+            "total_games": 26,
+            "win_rate": 0.6923076923076923
+        },
+        "Fiddlesticks": {
+            "kda": 2.9166666666666665,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Annie": {
+            "kda": 3.386861313868613,
+            "total_games": 28,
+            "win_rate": 0.75
+        }
+    },
+    "Onlee Muiz": {
+        "Maokai": {
+            "kda": 3.18974358974359,
+            "total_games": 55,
+            "win_rate": 0.5818181818181818
+        },
+        "Malphite": {
+            "kda": 3.1515151515151514,
+            "total_games": 48,
+            "win_rate": 0.5
+        },
+        "Vladimir": {
+            "kda": 2.3072625698324023,
+            "total_games": 33,
+            "win_rate": 0.5151515151515151
+        },
+        "Gangplank": {
+            "kda": 2.7600596125186287,
+            "total_games": 130,
+            "win_rate": 0.6692307692307692
+        },
+        "Zac": {
+            "kda": 3.717948717948718,
+            "total_games": 42,
+            "win_rate": 0.5
+        },
+        "Trundle": {
+            "kda": 2.5955882352941178,
+            "total_games": 27,
+            "win_rate": 0.6666666666666666
+        },
+        "Nasus": {
+            "kda": 2.716577540106952,
+            "total_games": 89,
+            "win_rate": 0.5955056179775281
+        },
+        "Poppy": {
+            "kda": 2.936,
+            "total_games": 27,
+            "win_rate": 0.5925925925925926
+        }
+    },
+    "ZUAO505": {
+        "Nidalee": {
+            "kda": 3.751937984496124,
+            "total_games": 34,
+            "win_rate": 0.5588235294117647
+        },
+        "Zac": {
+            "kda": 7.458333333333333,
+            "total_games": 29,
+            "win_rate": 0.7931034482758621
+        },
+        "Elise": {
+            "kda": 3.625282167042889,
+            "total_games": 102,
+            "win_rate": 0.6372549019607843
+        },
+        "Graves": {
+            "kda": 3.0939597315436242,
+            "total_games": 35,
+            "win_rate": 0.6
+        },
+        "Gragas": {
+            "kda": 4.915730337078652,
+            "total_games": 54,
+            "win_rate": 0.6111111111111112
+        },
+        "Lee Sin": {
+            "kda": 3.3421926910299002,
+            "total_games": 65,
+            "win_rate": 0.5692307692307692
+        },
+        "Rek'Sai": {
+            "kda": 4.986784140969163,
+            "total_games": 76,
+            "win_rate": 0.618421052631579
+        }
+    },
+    "KLEBIN DO BAILE": {
+        "Elise": {
+            "kda": 2.82,
+            "total_games": 40,
+            "win_rate": 0.725
+        },
+        "Lee Sin": {
+            "kda": 3.1619047619047618,
+            "total_games": 37,
+            "win_rate": 0.7027027027027027
+        }
+    },
+    "Pinguin Cotoco": {
+        "Lissandra": {
+            "kda": 3.87248322147651,
+            "total_games": 39,
+            "win_rate": 0.6410256410256411
+        },
+        "Thresh": {
+            "kda": 4.1567567567567565,
+            "total_games": 44,
+            "win_rate": 0.7272727272727273
+        },
+        "Morgana": {
+            "kda": 5.119718309859155,
+            "total_games": 87,
+            "win_rate": 0.6206896551724138
+        },
+        "Bard": {
+            "kda": 4.111940298507463,
+            "total_games": 29,
+            "win_rate": 0.7241379310344828
+        }
+    },
+    "IlIlIlIIllIlIllI": {
+        "LeBlanc": {
+            "kda": 4.186274509803922,
+            "total_games": 29,
+            "win_rate": 0.7241379310344828
+        },
+        "Taliyah": {
+            "kda": 3.5142857142857142,
+            "total_games": 27,
+            "win_rate": 0.6296296296296297
+        }
+    },
+    "beast mid laner": {
+        "Orianna": {
+            "kda": 3.2696969696969695,
+            "total_games": 438,
+            "win_rate": 0.5958904109589042
+        },
+        "Maokai": {
+            "kda": 2.640378548895899,
+            "total_games": 55,
+            "win_rate": 0.5272727272727272
+        },
+        "Corki": {
+            "kda": 3.3146067415730336,
+            "total_games": 40,
+            "win_rate": 0.625
+        },
+        "Rammus": {
+            "kda": 2.195876288659794,
+            "total_games": 89,
+            "win_rate": 0.6067415730337079
+        },
+        "Viktor": {
+            "kda": 2.5677966101694913,
+            "total_games": 115,
+            "win_rate": 0.5130434782608696
+        },
+        "Ahri": {
+            "kda": 2.960093896713615,
+            "total_games": 94,
+            "win_rate": 0.5106382978723404
+        },
+        "Anivia": {
+            "kda": 3.7471264367816093,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Fizz": {
+            "kda": 2.406015037593985,
+            "total_games": 47,
+            "win_rate": 0.5531914893617021
+        }
+    },
+    "yuu sora": {
+        "Nidalee": {
+            "kda": 3.903703703703704,
+            "total_games": 30,
+            "win_rate": 0.6666666666666666
+        },
+        "Lucian": {
+            "kda": 3.240072202166065,
+            "total_games": 124,
+            "win_rate": 0.6048387096774194
+        },
+        "Caitlyn": {
+            "kda": 2.6106194690265485,
+            "total_games": 44,
+            "win_rate": 0.5227272727272727
+        },
+        "Jhin": {
+            "kda": 4.0932642487046635,
+            "total_games": 47,
+            "win_rate": 0.6170212765957447
+        },
+        "Lee Sin": {
+            "kda": 2.6766169154228856,
+            "total_games": 37,
+            "win_rate": 0.5675675675675675
+        },
+        "Kalista": {
+            "kda": 3.1131221719457014,
+            "total_games": 49,
+            "win_rate": 0.6530612244897959
+        },
+        "Vayne": {
+            "kda": 2.9055374592833876,
+            "total_games": 68,
+            "win_rate": 0.5882352941176471
+        },
+        "Ezreal": {
+            "kda": 3.5549019607843135,
+            "total_games": 121,
+            "win_rate": 0.6033057851239669
+        }
+    },
+    "TheGodSend": {
+        "Lucian": {
+            "kda": 2.630952380952381,
+            "total_games": 298,
+            "win_rate": 0.5369127516778524
+        },
+        "Jinx": {
+            "kda": 2.5555555555555554,
+            "total_games": 62,
+            "win_rate": 0.5806451612903226
+        },
+        "Jhin": {
+            "kda": 2.6122994652406417,
+            "total_games": 65,
+            "win_rate": 0.5538461538461539
+        },
+        "Ashe": {
+            "kda": 2.3299319727891157,
+            "total_games": 53,
+            "win_rate": 0.6037735849056604
+        },
+        "Ahri": {
+            "kda": 2.243827160493827,
+            "total_games": 61,
+            "win_rate": 0.5409836065573771
+        }
+    },
+    "tomate1": {
+        "Anivia": {
+            "kda": 4.6115702479338845,
+            "total_games": 40,
+            "win_rate": 0.675
+        },
+        "Twisted Fate": {
+            "kda": 3.6237113402061856,
+            "total_games": 50,
+            "win_rate": 0.7
+        },
+        "Ezreal": {
+            "kda": 3.0952380952380953,
+            "total_games": 30,
+            "win_rate": 0.7333333333333333
+        },
+        "Cassiopeia": {
+            "kda": 3.015748031496063,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        },
+        "Viktor": {
+            "kda": 3.3354037267080745,
+            "total_games": 38,
+            "win_rate": 0.631578947368421
+        },
+        "Quinn": {
+            "kda": 3.024561403508772,
+            "total_games": 59,
+            "win_rate": 0.6271186440677966
+        },
+        "Syndra": {
+            "kda": 3.3909774436090228,
+            "total_games": 69,
+            "win_rate": 0.6376811594202898
+        },
+        "Azir": {
+            "kda": 2.5274725274725274,
+            "total_games": 41,
+            "win_rate": 0.5121951219512195
+        }
+    },
+    "The Phantom": {
+        "Azir": {
+            "kda": 4.25,
+            "total_games": 31,
+            "win_rate": 0.8064516129032258
+        }
+    },
+    "Warm Whispers": {
+        "Lucian": {
+            "kda": 3.2051282051282053,
+            "total_games": 84,
+            "win_rate": 0.6190476190476191
+        }
+    },
+    "HjEuAcordeiFeliz": {
+        "Lucian": {
+            "kda": 2.802919708029197,
+            "total_games": 25,
+            "win_rate": 0.6
+        },
+        "Twisted Fate": {
+            "kda": 3.3348837209302324,
+            "total_games": 50,
+            "win_rate": 0.68
+        },
+        "Taliyah": {
+            "kda": 2.50531914893617,
+            "total_games": 31,
+            "win_rate": 0.6129032258064516
+        }
+    },
+    "klaus1": {
+        "Lissandra": {
+            "kda": 3.0147783251231526,
+            "total_games": 50,
+            "win_rate": 0.58
+        },
+        "Caitlyn": {
+            "kda": 2.6688524590163936,
+            "total_games": 70,
+            "win_rate": 0.6
+        },
+        "Sivir": {
+            "kda": 2.9857142857142858,
+            "total_games": 34,
+            "win_rate": 0.5294117647058824
+        },
+        "Gangplank": {
+            "kda": 3.185483870967742,
+            "total_games": 31,
+            "win_rate": 0.5161290322580645
+        },
+        "Ashe": {
+            "kda": 2.8205128205128207,
+            "total_games": 68,
+            "win_rate": 0.5882352941176471
+        },
+        "Ezreal": {
+            "kda": 3.4961439588688945,
+            "total_games": 178,
+            "win_rate": 0.601123595505618
+        },
+        "Zed": {
+            "kda": 2.4565217391304346,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Jhin": {
+            "kda": 3.3696682464454977,
+            "total_games": 145,
+            "win_rate": 0.5241379310344828
+        }
+    },
+    "Lêozuxo": {
+        "Nidalee": {
+            "kda": 3.338888888888889,
+            "total_games": 38,
+            "win_rate": 0.7105263157894737
+        },
+        "Elise": {
+            "kda": 2.6525,
+            "total_games": 73,
+            "win_rate": 0.5205479452054794
+        },
+        "Rek'Sai": {
+            "kda": 3.0574018126888216,
+            "total_games": 68,
+            "win_rate": 0.6176470588235294
+        }
+    },
+    "adriano IMPERA": {
+        "Brand": {
+            "kda": 2.2612966601178783,
+            "total_games": 63,
+            "win_rate": 0.6507936507936508
+        },
+        "Zyra": {
+            "kda": 2.1320754716981134,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        },
+        "Thresh": {
+            "kda": 2.8046153846153845,
+            "total_games": 111,
+            "win_rate": 0.6666666666666666
+        },
+        "Bard": {
+            "kda": 2.779130434782609,
+            "total_games": 103,
+            "win_rate": 0.6116504854368932
+        },
+        "Karma": {
+            "kda": 3.158536585365854,
+            "total_games": 31,
+            "win_rate": 0.5161290322580645
+        },
+        "Nami": {
+            "kda": 4.0256410256410255,
+            "total_games": 31,
+            "win_rate": 0.7096774193548387
+        },
+        "Morgana": {
+            "kda": 2.8967391304347827,
+            "total_games": 32,
+            "win_rate": 0.59375
+        }
+    },
+    "Little Churros": {
+        "Veigar": {
+            "kda": 2.8859649122807016,
+            "total_games": 26,
+            "win_rate": 0.5
+        },
+        "Caitlyn": {
+            "kda": 2.141732283464567,
+            "total_games": 29,
+            "win_rate": 0.5517241379310345
+        },
+        "Rammus": {
+            "kda": 3.8333333333333335,
+            "total_games": 393,
+            "win_rate": 0.5725190839694656
+        },
+        "Malphite": {
+            "kda": 3.3953934740882916,
+            "total_games": 143,
+            "win_rate": 0.6153846153846154
+        },
+        "Morgana": {
+            "kda": 3.5331412103746396,
+            "total_games": 93,
+            "win_rate": 0.6129032258064516
+        },
+        "Riven": {
+            "kda": 2.0701754385964914,
+            "total_games": 25,
+            "win_rate": 0.52
+        }
+    },
+    "ferchu triste": {
+        "Nidalee": {
+            "kda": 3.6683168316831685,
+            "total_games": 48,
+            "win_rate": 0.6041666666666666
+        },
+        "Shen": {
+            "kda": 3.961904761904762,
+            "total_games": 27,
+            "win_rate": 0.7037037037037037
+        },
+        "Elise": {
+            "kda": 3.7281553398058254,
+            "total_games": 52,
+            "win_rate": 0.6730769230769231
+        },
+        "Gragas": {
+            "kda": 4.508771929824562,
+            "total_games": 49,
+            "win_rate": 0.7346938775510204
+        },
+        "Lee Sin": {
+            "kda": 3.1641791044776117,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Rek'Sai": {
+            "kda": 4.118012422360248,
+            "total_games": 42,
+            "win_rate": 0.6190476190476191
+        }
+    },
+    "Minerva": {},
+    "TOXIC MAIN HANZO": {
+        "Twisted Fate": {
+            "kda": 3.1751824817518246,
+            "total_games": 29,
+            "win_rate": 0.6896551724137931
+        }
+    },
+    "paiN KamiKat": {
+        "LeBlanc": {
+            "kda": 4.417582417582418,
+            "total_games": 25,
+            "win_rate": 0.72
+        },
+        "Vladimir": {
+            "kda": 3.5795454545454546,
+            "total_games": 27,
+            "win_rate": 0.7407407407407407
+        },
+        "Azir": {
+            "kda": 3.684684684684685,
+            "total_games": 32,
+            "win_rate": 0.65625
+        }
+    },
+    "The Nys": {
+        "Nidalee": {
+            "kda": 3.3749338974087784,
+            "total_games": 445,
+            "win_rate": 0.6202247191011236
+        },
+        "Elise": {
+            "kda": 3.027431421446384,
+            "total_games": 252,
+            "win_rate": 0.503968253968254
+        },
+        "Graves": {
+            "kda": 2.6504369538077404,
+            "total_games": 169,
+            "win_rate": 0.5266272189349113
+        },
+        "Gragas": {
+            "kda": 3.495833333333333,
+            "total_games": 59,
+            "win_rate": 0.5254237288135594
+        },
+        "Lee Sin": {
+            "kda": 3.2934179222839015,
+            "total_games": 269,
+            "win_rate": 0.5055762081784386
+        },
+        "Rek'Sai": {
+            "kda": 3.95,
+            "total_games": 206,
+            "win_rate": 0.5776699029126213
+        },
+        "Morgana": {
+            "kda": 3.3056338028169012,
+            "total_games": 155,
+            "win_rate": 0.5935483870967742
+        },
+        "Kindred": {
+            "kda": 2.323529411764706,
+            "total_games": 38,
+            "win_rate": 0.5526315789473685
+        }
+    },
+    "Crywulf": {
+        "Fiora": {
+            "kda": 2.311320754716981,
+            "total_games": 25,
+            "win_rate": 0.6
+        }
+    },
+    "LUSKKÃO": {
+        "Lucian": {
+            "kda": 3.009259259259259,
+            "total_games": 49,
+            "win_rate": 0.6122448979591837
+        },
+        "Ezreal": {
+            "kda": 3.341549295774648,
+            "total_games": 69,
+            "win_rate": 0.6521739130434783
+        },
+        "Caitlyn": {
+            "kda": 3.59375,
+            "total_games": 26,
+            "win_rate": 0.7307692307692307
+        }
+    },
+    "Foggao": {
+        "Lissandra": {
+            "kda": 2.608695652173913,
+            "total_games": 52,
+            "win_rate": 0.5961538461538461
+        },
+        "Lucian": {
+            "kda": 2.377005347593583,
+            "total_games": 68,
+            "win_rate": 0.5
+        },
+        "Ezreal": {
+            "kda": 3.1777777777777776,
+            "total_games": 71,
+            "win_rate": 0.5070422535211268
+        },
+        "Ahri": {
+            "kda": 3.224199288256228,
+            "total_games": 131,
+            "win_rate": 0.6335877862595419
+        },
+        "Azir": {
+            "kda": 2.639705882352941,
+            "total_games": 27,
+            "win_rate": 0.5555555555555556
+        },
+        "LeBlanc": {
+            "kda": 3.533333333333333,
+            "total_games": 214,
+            "win_rate": 0.5747663551401869
+        }
+    },
+    "HKS Mills": {
+        "Lissandra": {
+            "kda": 2.79126213592233,
+            "total_games": 43,
+            "win_rate": 0.6046511627906976
+        },
+        "Lucian": {
+            "kda": 2.927455357142857,
+            "total_games": 207,
+            "win_rate": 0.5652173913043478
+        },
+        "Caitlyn": {
+            "kda": 2.710865561694291,
+            "total_games": 112,
+            "win_rate": 0.5803571428571429
+        },
+        "Jhin": {
+            "kda": 3.6196319018404908,
+            "total_games": 114,
+            "win_rate": 0.5614035087719298
+        },
+        "Ashe": {
+            "kda": 2.6736526946107784,
+            "total_games": 68,
+            "win_rate": 0.6176470588235294
+        },
+        "Kalista": {
+            "kda": 2.675324675324675,
+            "total_games": 32,
+            "win_rate": 0.53125
+        },
+        "Ezreal": {
+            "kda": 3.137142857142857,
+            "total_games": 230,
+            "win_rate": 0.5347826086956522
+        }
+    },
+    "fightingforlove": {
+        "Nidalee": {
+            "kda": 2.41019955654102,
+            "total_games": 70,
+            "win_rate": 0.5
+        },
+        "Lux": {
+            "kda": 2.486772486772487,
+            "total_games": 31,
+            "win_rate": 0.6774193548387096
+        },
+        "Karma": {
+            "kda": 2.623076923076923,
+            "total_games": 62,
+            "win_rate": 0.532258064516129
+        },
+        "Fiddlesticks": {
+            "kda": 2.7726218097447797,
+            "total_games": 78,
+            "win_rate": 0.5384615384615384
+        },
+        "Kindred": {
+            "kda": 2.599473376243417,
+            "total_games": 581,
+            "win_rate": 0.6592082616179001
+        }
+    },
+    "GodBgob": {
+        "Nidalee": {
+            "kda": 4.374485596707819,
+            "total_games": 126,
+            "win_rate": 0.6428571428571429
+        },
+        "Lucian": {
+            "kda": 2.3026315789473686,
+            "total_games": 36,
+            "win_rate": 0.5555555555555556
+        },
+        "Elise": {
+            "kda": 3.6965174129353233,
+            "total_games": 99,
+            "win_rate": 0.5656565656565656
+        },
+        "Gragas": {
+            "kda": 4.349397590361446,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        },
+        "Lee Sin": {
+            "kda": 3.2244897959183674,
+            "total_games": 27,
+            "win_rate": 0.5555555555555556
+        },
+        "Ezreal": {
+            "kda": 2.5594594594594593,
+            "total_games": 66,
+            "win_rate": 0.5151515151515151
+        }
+    },
+    "Jesus Cristo FIX": {
+        "Lucian": {
+            "kda": 2.5491803278688523,
+            "total_games": 153,
+            "win_rate": 0.5620915032679739
+        },
+        "Caitlyn": {
+            "kda": 2.343108504398827,
+            "total_games": 61,
+            "win_rate": 0.5737704918032787
+        },
+        "Jhin": {
+            "kda": 2.7874015748031495,
+            "total_games": 43,
+            "win_rate": 0.5581395348837209
+        },
+        "Thresh": {
+            "kda": 2.6336206896551726,
+            "total_games": 34,
+            "win_rate": 0.5
+        },
+        "Vayne": {
+            "kda": 2.3122580645161293,
+            "total_games": 139,
+            "win_rate": 0.60431654676259
+        },
+        "Ezreal": {
+            "kda": 2.7954545454545454,
+            "total_games": 115,
+            "win_rate": 0.5043478260869565
+        }
+    },
+    "Savz DELICIOUS": {
+        "Talon": {
+            "kda": 2.464772054470101,
+            "total_games": 259,
+            "win_rate": 0.6486486486486487
+        }
+    },
+    "4LaN": {
+        "Nidalee": {
+            "kda": 3.7095652173913045,
+            "total_games": 134,
+            "win_rate": 0.582089552238806
+        },
+        "Elise": {
+            "kda": 3.448905109489051,
+            "total_games": 123,
+            "win_rate": 0.6016260162601627
+        },
+        "Gragas": {
+            "kda": 3.263440860215054,
+            "total_games": 46,
+            "win_rate": 0.5434782608695652
+        },
+        "Olaf": {
+            "kda": 3.0437158469945356,
+            "total_games": 37,
+            "win_rate": 0.5945945945945946
+        },
+        "Rek'Sai": {
+            "kda": 4.5741710296684115,
+            "total_games": 153,
+            "win_rate": 0.7058823529411765
+        },
+        "Kindred": {
+            "kda": 2.6174142480211082,
+            "total_games": 64,
+            "win_rate": 0.578125
+        }
+    },
+    "Sozinho": {
+        "LeBlanc": {
+            "kda": 3.7337662337662336,
+            "total_games": 29,
+            "win_rate": 0.7241379310344828
+        },
+        "Riven": {
+            "kda": 2.2361516034985423,
+            "total_games": 105,
+            "win_rate": 0.6952380952380952
+        },
+        "Lee Sin": {
+            "kda": 3.1141732283464565,
+            "total_games": 45,
+            "win_rate": 0.6666666666666666
+        },
+        "Zed": {
+            "kda": 2.825870646766169,
+            "total_games": 34,
+            "win_rate": 0.6176470588235294
+        },
+        "Fiora": {
+            "kda": 2.276315789473684,
+            "total_games": 30,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "Abnegação": {
+        "Evelynn": {
+            "kda": 3.596244131455399,
+            "total_games": 106,
+            "win_rate": 0.5094339622641509
+        },
+        "Soraka": {
+            "kda": 3.3241491085899515,
+            "total_games": 157,
+            "win_rate": 0.5859872611464968
+        },
+        "Janna": {
+            "kda": 4.700500682749204,
+            "total_games": 717,
+            "win_rate": 0.5509065550906556
+        }
+    },
+    "INTZ Yang1": {
+        "Ryze": {
+            "kda": 4.55,
+            "total_games": 30,
+            "win_rate": 0.7
+        },
+        "Rumble": {
+            "kda": 3.596330275229358,
+            "total_games": 32,
+            "win_rate": 0.625
+        }
+    },
+    "lililiiiiilll": {
+        "Riven": {
+            "kda": 3.0288461538461537,
+            "total_games": 328,
+            "win_rate": 0.6920731707317073
+        }
+    },
+    "SouIsilver": {
+        "Lissandra": {
+            "kda": 1.8833333333333333,
+            "total_games": 60,
+            "win_rate": 0.5333333333333333
+        },
+        "Renekton": {
+            "kda": 2.0,
+            "total_games": 35,
+            "win_rate": 0.7142857142857143
+        },
+        "Elise": {
+            "kda": 2.0344827586206895,
+            "total_games": 42,
+            "win_rate": 0.5
+        },
+        "Morgana": {
+            "kda": 2.267080745341615,
+            "total_games": 32,
+            "win_rate": 0.5625
+        },
+        "Miss Fortune": {
+            "kda": 2.3895131086142323,
+            "total_games": 42,
+            "win_rate": 0.6428571428571429
+        },
+        "Viktor": {
+            "kda": 2.876470588235294,
+            "total_games": 37,
+            "win_rate": 0.5405405405405406
+        },
+        "Diana": {
+            "kda": 1.9649122807017543,
+            "total_games": 37,
+            "win_rate": 0.6486486486486487
+        },
+        "Syndra": {
+            "kda": 2.858974358974359,
+            "total_games": 30,
+            "win_rate": 0.8
+        },
+        "LeBlanc": {
+            "kda": 2.560267857142857,
+            "total_games": 82,
+            "win_rate": 0.5121951219512195
+        }
+    },
+    "Desiludido": {
+        "Gangplank": {
+            "kda": 2.4771428571428573,
+            "total_games": 60,
+            "win_rate": 0.5666666666666667
+        },
+        "Kassadin": {
+            "kda": 3.1739130434782608,
+            "total_games": 36,
+            "win_rate": 0.6388888888888888
+        },
+        "Viktor": {
+            "kda": 2.7941176470588234,
+            "total_games": 34,
+            "win_rate": 0.5882352941176471
+        },
+        "Riven": {
+            "kda": 1.8278145695364238,
+            "total_games": 42,
+            "win_rate": 0.5714285714285714
+        },
+        "LeBlanc": {
+            "kda": 3.0939393939393938,
+            "total_games": 124,
+            "win_rate": 0.5161290322580645
+        },
+        "Lucian": {
+            "kda": 2.2974683544303796,
+            "total_games": 91,
+            "win_rate": 0.5604395604395604
+        },
+        "Ezreal": {
+            "kda": 2.993333333333333,
+            "total_games": 86,
+            "win_rate": 0.5813953488372093
+        },
+        "Thresh": {
+            "kda": 2.831804281345566,
+            "total_games": 50,
+            "win_rate": 0.54
+        },
+        "Caitlyn": {
+            "kda": 2.3177083333333335,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        },
+        "Lee Sin": {
+            "kda": 2.9153005464480874,
+            "total_games": 129,
+            "win_rate": 0.5736434108527132
+        },
+        "Kalista": {
+            "kda": 2.478359908883827,
+            "total_games": 75,
+            "win_rate": 0.6133333333333333
+        },
+        "Vayne": {
+            "kda": 2.1130742049469964,
+            "total_games": 46,
+            "win_rate": 0.5869565217391305
+        },
+        "Sona": {
+            "kda": 3.103550295857988,
+            "total_games": 58,
+            "win_rate": 0.6206896551724138
+        },
+        "Zed": {
+            "kda": 2.1666666666666665,
+            "total_games": 89,
+            "win_rate": 0.5842696629213483
+        },
+        "Yasuo": {
+            "kda": 1.8035450516986706,
+            "total_games": 95,
+            "win_rate": 0.6526315789473685
+        },
+        "Ahri": {
+            "kda": 3.5483870967741935,
+            "total_games": 31,
+            "win_rate": 0.6129032258064516
+        }
+    },
+    "UnderSky": {
+        "Irelia": {
+            "kda": 2.955388180764774,
+            "total_games": 423,
+            "win_rate": 0.5650118203309693
+        },
+        "Jax": {
+            "kda": 2.3555555555555556,
+            "total_games": 30,
+            "win_rate": 0.5666666666666667
+        },
+        "Master Yi": {
+            "kda": 2.5031847133757963,
+            "total_games": 31,
+            "win_rate": 0.6451612903225806
+        },
+        "Gnar": {
+            "kda": 3.3945578231292517,
+            "total_games": 37,
+            "win_rate": 0.6486486486486487
+        },
+        "Riven": {
+            "kda": 2.737827715355805,
+            "total_games": 61,
+            "win_rate": 0.5573770491803278
+        }
+    },
+    "im so tired": {
+        "Karma": {
+            "kda": 3.5193798449612403,
+            "total_games": 37,
+            "win_rate": 0.5405405405405406
+        },
+        "Alistar": {
+            "kda": 3.9489795918367347,
+            "total_games": 25,
+            "win_rate": 0.68
+        }
+    },
+    "Kroma": {
+        "Nidalee": {
+            "kda": 4.009771986970684,
+            "total_games": 84,
+            "win_rate": 0.5952380952380952
+        },
+        "Soraka": {
+            "kda": 3.336683417085427,
+            "total_games": 43,
+            "win_rate": 0.6046511627906976
+        },
+        "Graves": {
+            "kda": 2.852607709750567,
+            "total_games": 91,
+            "win_rate": 0.5164835164835165
+        },
+        "Gangplank": {
+            "kda": 2.569377990430622,
+            "total_games": 90,
+            "win_rate": 0.6
+        },
+        "Bard": {
+            "kda": 3.3551401869158877,
+            "total_games": 26,
+            "win_rate": 0.6153846153846154
+        },
+        "Ezreal": {
+            "kda": 3.318289786223278,
+            "total_games": 98,
+            "win_rate": 0.5306122448979592
+        },
+        "Azir": {
+            "kda": 2.1487179487179486,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        },
+        "Thresh": {
+            "kda": 2.6310160427807485,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Rengar": {
+            "kda": 2.474418604651163,
+            "total_games": 40,
+            "win_rate": 0.5
+        },
+        "Elise": {
+            "kda": 3.6038251366120218,
+            "total_games": 168,
+            "win_rate": 0.6190476190476191
+        },
+        "Gragas": {
+            "kda": 3.1934731934731935,
+            "total_games": 85,
+            "win_rate": 0.5176470588235295
+        },
+        "Rek'Sai": {
+            "kda": 3.0588235294117645,
+            "total_games": 97,
+            "win_rate": 0.5154639175257731
+        },
+        "Kindred": {
+            "kda": 2.6052631578947367,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        }
+    },
+    "Krastymel": {
+        "LeBlanc": {
+            "kda": 3.468013468013468,
+            "total_games": 141,
+            "win_rate": 0.5673758865248227
+        },
+        "Cassiopeia": {
+            "kda": 2.9074074074074074,
+            "total_games": 48,
+            "win_rate": 0.6041666666666666
+        },
+        "Thresh": {
+            "kda": 3.6601941747572817,
+            "total_games": 87,
+            "win_rate": 0.6206896551724138
+        },
+        "Gnar": {
+            "kda": 2.5039370078740157,
+            "total_games": 52,
+            "win_rate": 0.5769230769230769
+        }
+    },
+    "RED SacyR": {
+        "Lucian": {
+            "kda": 3.454225352112676,
+            "total_games": 68,
+            "win_rate": 0.5735294117647058
+        },
+        "Ezreal": {
+            "kda": 3.6020408163265305,
+            "total_games": 47,
+            "win_rate": 0.723404255319149
+        },
+        "Jhin": {
+            "kda": 4.211453744493392,
+            "total_games": 52,
+            "win_rate": 0.5769230769230769
+        }
+    },
+    "FAN DE URI 1": {
+        "Lucian": {
+            "kda": 2.9393203883495147,
+            "total_games": 89,
+            "win_rate": 0.6741573033707865
+        },
+        "Ezreal": {
+            "kda": 3.1964735516372795,
+            "total_games": 95,
+            "win_rate": 0.6
+        },
+        "Sivir": {
+            "kda": 3.0691489361702127,
+            "total_games": 34,
+            "win_rate": 0.6764705882352942
+        },
+        "Jhin": {
+            "kda": 3.0991735537190084,
+            "total_games": 74,
+            "win_rate": 0.5405405405405406
+        }
+    },
+    "Myrtle Snow": {
+        "Nidalee": {
+            "kda": 4.089655172413793,
+            "total_games": 142,
+            "win_rate": 0.6690140845070423
+        },
+        "Elise": {
+            "kda": 3.9728395061728397,
+            "total_games": 99,
+            "win_rate": 0.6262626262626263
+        },
+        "Graves": {
+            "kda": 3.0,
+            "total_games": 45,
+            "win_rate": 0.5333333333333333
+        },
+        "Shyvana": {
+            "kda": 3.6029411764705883,
+            "total_games": 33,
+            "win_rate": 0.696969696969697
+        },
+        "Olaf": {
+            "kda": 3.729559748427673,
+            "total_games": 40,
+            "win_rate": 0.7
+        },
+        "Lee Sin": {
+            "kda": 3.3604060913705585,
+            "total_games": 40,
+            "win_rate": 0.65
+        },
+        "Kalista": {
+            "kda": 2.09811320754717,
+            "total_games": 44,
+            "win_rate": 0.5681818181818182
+        },
+        "Irelia": {
+            "kda": 2.244186046511628,
+            "total_games": 26,
+            "win_rate": 0.5384615384615384
+        },
+        "Rek'Sai": {
+            "kda": 4.816287878787879,
+            "total_games": 160,
+            "win_rate": 0.7
+        },
+        "Poppy": {
+            "kda": 4.364963503649635,
+            "total_games": 35,
+            "win_rate": 0.7142857142857143
+        },
+        "Fiora": {
+            "kda": 1.6488888888888888,
+            "total_games": 34,
+            "win_rate": 0.6176470588235294
+        }
+    },
+    "Its Bittersweet": {
+        "LeBlanc": {
+            "kda": 4.1686046511627906,
+            "total_games": 48,
+            "win_rate": 0.5416666666666666
+        },
+        "Vladimir": {
+            "kda": 3.863874345549738,
+            "total_games": 52,
+            "win_rate": 0.6538461538461539
+        },
+        "Cassiopeia": {
+            "kda": 3.1319444444444446,
+            "total_games": 28,
+            "win_rate": 0.6428571428571429
+        },
+        "Ezreal": {
+            "kda": 3.3557046979865772,
+            "total_games": 33,
+            "win_rate": 0.5757575757575758
+        },
+        "Zed": {
+            "kda": 3.477707006369427,
+            "total_games": 39,
+            "win_rate": 0.6923076923076923
+        },
+        "Morgana": {
+            "kda": 4.421800947867299,
+            "total_games": 59,
+            "win_rate": 0.6610169491525424
+        },
+        "Zilean": {
+            "kda": 4.858381502890174,
+            "total_games": 93,
+            "win_rate": 0.6236559139784946
+        }
+    },
+    "Cara Inteligente": {
+        "Taliyah": {
+            "kda": 2.8475,
+            "total_games": 75,
+            "win_rate": 0.5066666666666667
+        },
+        "Thresh": {
+            "kda": 3.3773946360153255,
+            "total_games": 108,
+            "win_rate": 0.5185185185185185
+        },
+        "Poppy": {
+            "kda": 3.3525641025641026,
+            "total_games": 34,
+            "win_rate": 0.6470588235294118
+        },
+        "Bard": {
+            "kda": 4.162737642585551,
+            "total_games": 312,
+            "win_rate": 0.6410256410256411
+        }
+    },
+    "tinowns2": {
+        "Corki": {
+            "kda": 4.845360824742268,
+            "total_games": 31,
+            "win_rate": 0.8064516129032258
+        },
+        "LeBlanc": {
+            "kda": 4.696629213483146,
+            "total_games": 30,
+            "win_rate": 0.8
+        }
+    },
+    "A Famosa Annie1": {
+        "Riven": {
+            "kda": 2.134796238244514,
+            "total_games": 49,
+            "win_rate": 0.6122448979591837
+        },
+        "Elise": {
+            "kda": 2.9624413145539905,
+            "total_games": 38,
+            "win_rate": 0.5263157894736842
+        },
+        "Talon": {
+            "kda": 3.4847457627118645,
+            "total_games": 172,
+            "win_rate": 0.7034883720930233
+        },
+        "Annie": {
+            "kda": 3.0838574423480085,
+            "total_games": 98,
+            "win_rate": 0.5816326530612245
+        },
+        "Lee Sin": {
+            "kda": 4.307142857142857,
+            "total_games": 33,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "Wols": {
+        "Thresh": {
+            "kda": 3.825,
+            "total_games": 48,
+            "win_rate": 0.6666666666666666
+        },
+        "Zyra": {
+            "kda": 3.1358024691358026,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Braum": {
+            "kda": 3.5177514792899407,
+            "total_games": 75,
+            "win_rate": 0.5333333333333333
+        },
+        "Bard": {
+            "kda": 3.8370607028753994,
+            "total_games": 66,
+            "win_rate": 0.5757575757575758
+        },
+        "Karma": {
+            "kda": 3.298780487804878,
+            "total_games": 34,
+            "win_rate": 0.5882352941176471
+        },
+        "Alistar": {
+            "kda": 3.3405017921146953,
+            "total_games": 55,
+            "win_rate": 0.5272727272727272
+        }
+    },
+    "Hatsune Míku": {},
+    "Tomric": {
+        "Nidalee": {
+            "kda": 3.1653543307086616,
+            "total_games": 50,
+            "win_rate": 0.6
+        },
+        "Lee Sin": {
+            "kda": 2.9572649572649574,
+            "total_games": 92,
+            "win_rate": 0.5
+        },
+        "Irelia": {
+            "kda": 2.1816283924843423,
+            "total_games": 82,
+            "win_rate": 0.6585365853658537
+        },
+        "Akali": {
+            "kda": 2.8430493273542603,
+            "total_games": 40,
+            "win_rate": 0.625
+        },
+        "Dr. Mundo": {
+            "kda": 3.719298245614035,
+            "total_games": 42,
+            "win_rate": 0.6666666666666666
+        },
+        "Singed": {
+            "kda": 3.1547169811320757,
+            "total_games": 62,
+            "win_rate": 0.6774193548387096
+        }
+    },
+    "BRAVE Brevot": {
+        "Lissandra": {
+            "kda": 2.6824034334763946,
+            "total_games": 46,
+            "win_rate": 0.6304347826086957
+        },
+        "Orianna": {
+            "kda": 3.0884353741496597,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        },
+        "Vladimir": {
+            "kda": 3.0531914893617023,
+            "total_games": 47,
+            "win_rate": 0.574468085106383
+        },
+        "Corki": {
+            "kda": 3.194244604316547,
+            "total_games": 35,
+            "win_rate": 0.5714285714285714
+        },
+        "Viktor": {
+            "kda": 3.223463687150838,
+            "total_games": 40,
+            "win_rate": 0.525
+        },
+        "Karma": {
+            "kda": 2.6043165467625897,
+            "total_games": 25,
+            "win_rate": 0.56
+        },
+        "Azir": {
+            "kda": 2.6153846153846154,
+            "total_games": 38,
+            "win_rate": 0.5
+        },
+        "Syndra": {
+            "kda": 2.957894736842105,
+            "total_games": 41,
+            "win_rate": 0.5365853658536586
+        },
+        "LeBlanc": {
+            "kda": 3.9338345864661655,
+            "total_games": 179,
+            "win_rate": 0.6145251396648045
+        },
+        "Lucian": {
+            "kda": 2.204081632653061,
+            "total_games": 43,
+            "win_rate": 0.5581395348837209
+        },
+        "Twisted Fate": {
+            "kda": 2.9015151515151514,
+            "total_games": 26,
+            "win_rate": 0.8076923076923077
+        },
+        "Elise": {
+            "kda": 3.4014084507042255,
+            "total_games": 32,
+            "win_rate": 0.59375
+        },
+        "Taliyah": {
+            "kda": 3.0436681222707422,
+            "total_games": 42,
+            "win_rate": 0.5238095238095238
+        },
+        "Lulu": {
+            "kda": 2.903225806451613,
+            "total_games": 40,
+            "win_rate": 0.525
+        },
+        "Zed": {
+            "kda": 2.870870870870871,
+            "total_games": 81,
+            "win_rate": 0.6172839506172839
+        },
+        "Morgana": {
+            "kda": 3.097165991902834,
+            "total_games": 51,
+            "win_rate": 0.5294117647058824
+        },
+        "Ahri": {
+            "kda": 3.6533333333333333,
+            "total_games": 42,
+            "win_rate": 0.6428571428571429
+        }
+    },
+    "FreeAgentSupport": {
+        "Janna": {
+            "kda": 3.9043478260869566,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        },
+        "Thresh": {
+            "kda": 2.676767676767677,
+            "total_games": 68,
+            "win_rate": 0.5
+        },
+        "Braum": {
+            "kda": 3.2682291666666665,
+            "total_games": 76,
+            "win_rate": 0.5789473684210527
+        },
+        "Bard": {
+            "kda": 2.9410526315789474,
+            "total_games": 85,
+            "win_rate": 0.5058823529411764
+        },
+        "Karma": {
+            "kda": 3.072519083969466,
+            "total_games": 102,
+            "win_rate": 0.5392156862745098
+        },
+        "Alistar": {
+            "kda": 3.1958620689655173,
+            "total_games": 147,
+            "win_rate": 0.6598639455782312
+        },
+        "Quinn": {
+            "kda": 2.006198347107438,
+            "total_games": 66,
+            "win_rate": 0.5606060606060606
+        }
+    },
+    "KLG Julio": {
+        "Nidalee": {
+            "kda": 3.3125,
+            "total_games": 34,
+            "win_rate": 0.6176470588235294
+        },
+        "Elise": {
+            "kda": 4.044198895027624,
+            "total_games": 43,
+            "win_rate": 0.6511627906976745
+        },
+        "Graves": {
+            "kda": 2.8756476683937824,
+            "total_games": 38,
+            "win_rate": 0.631578947368421
+        },
+        "Kindred": {
+            "kda": 3.3836858006042294,
+            "total_games": 67,
+            "win_rate": 0.7611940298507462
+        }
+    },
+    "GOKU CAMISA 10": {
+        "LeBlanc": {
+            "kda": 3.8701298701298703,
+            "total_games": 43,
+            "win_rate": 0.7441860465116279
+        }
+    },
+    "PRG Professor": {
+        "Tahm Kench": {
+            "kda": 3.8125,
+            "total_games": 32,
+            "win_rate": 0.6875
+        },
+        "Thresh": {
+            "kda": 4.042918454935623,
+            "total_games": 56,
+            "win_rate": 0.6607142857142857
+        },
+        "Braum": {
+            "kda": 4.404411764705882,
+            "total_games": 39,
+            "win_rate": 0.6666666666666666
+        },
+        "Bard": {
+            "kda": 3.9146110056925996,
+            "total_games": 121,
+            "win_rate": 0.5867768595041323
+        },
+        "Taric": {
+            "kda": 4.666666666666667,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Alistar": {
+            "kda": 4.095541401273885,
+            "total_games": 43,
+            "win_rate": 0.6046511627906976
+        },
+        "Nami": {
+            "kda": 5.066666666666666,
+            "total_games": 26,
+            "win_rate": 0.5769230769230769
+        },
+        "Morgana": {
+            "kda": 4.416666666666667,
+            "total_games": 47,
+            "win_rate": 0.6170212765957447
+        }
+    },
+    "Miracle1": {
+        "Lucian": {
+            "kda": 2.847902097902098,
+            "total_games": 123,
+            "win_rate": 0.5772357723577236
+        },
+        "Caitlyn": {
+            "kda": 2.976470588235294,
+            "total_games": 37,
+            "win_rate": 0.5405405405405406
+        },
+        "Jhin": {
+            "kda": 3.436936936936937,
+            "total_games": 45,
+            "win_rate": 0.5777777777777777
+        },
+        "Corki": {
+            "kda": 2.981042654028436,
+            "total_games": 40,
+            "win_rate": 0.65
+        },
+        "Ezreal": {
+            "kda": 3.191860465116279,
+            "total_games": 71,
+            "win_rate": 0.5352112676056338
+        },
+        "Thresh": {
+            "kda": 2.6904761904761907,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        }
+    },
+    "Nyu": {
+        "Lissandra": {
+            "kda": 2.764705882352941,
+            "total_games": 56,
+            "win_rate": 0.5535714285714286
+        },
+        "Malphite": {
+            "kda": 3.8544303797468356,
+            "total_games": 46,
+            "win_rate": 0.5869565217391305
+        },
+        "Gnar": {
+            "kda": 2.585714285714286,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Bard": {
+            "kda": 3.090909090909091,
+            "total_games": 60,
+            "win_rate": 0.5166666666666667
+        },
+        "Kennen": {
+            "kda": 2.7278481012658227,
+            "total_games": 31,
+            "win_rate": 0.5483870967741935
+        },
+        "Singed": {
+            "kda": 2.486666666666667,
+            "total_games": 59,
+            "win_rate": 0.576271186440678
+        },
+        "Ekko": {
+            "kda": 2.43801652892562,
+            "total_games": 54,
+            "win_rate": 0.5370370370370371
+        },
+        "Nautilus": {
+            "kda": 4.464968152866242,
+            "total_games": 47,
+            "win_rate": 0.5957446808510638
+        },
+        "Jax": {
+            "kda": 1.9980582524271844,
+            "total_games": 101,
+            "win_rate": 0.6138613861386139
+        },
+        "Rumble": {
+            "kda": 3.2718570516911294,
+            "total_games": 348,
+            "win_rate": 0.5402298850574713
+        },
+        "Gragas": {
+            "kda": 3.864406779661017,
+            "total_games": 35,
+            "win_rate": 0.6
+        },
+        "Trundle": {
+            "kda": 2.949748743718593,
+            "total_games": 56,
+            "win_rate": 0.6071428571428571
+        },
+        "Irelia": {
+            "kda": 2.2832369942196533,
+            "total_games": 34,
+            "win_rate": 0.5882352941176471
+        },
+        "Poppy": {
+            "kda": 3.3665594855305465,
+            "total_games": 74,
+            "win_rate": 0.5135135135135135
+        },
+        "Blitzcrank": {
+            "kda": 4.1484375,
+            "total_games": 32,
+            "win_rate": 0.59375
+        }
+    },
+    "Awaken139": {
+        "Irelia": {
+            "kda": 2.0166666666666666,
+            "total_games": 30,
+            "win_rate": 0.6
+        },
+        "Riven": {
+            "kda": 1.9770114942528736,
+            "total_games": 33,
+            "win_rate": 0.8181818181818182
+        },
+        "Gnar": {
+            "kda": 2.6666666666666665,
+            "total_games": 39,
+            "win_rate": 0.5384615384615384
+        },
+        "Fiora": {
+            "kda": 2.122448979591837,
+            "total_games": 102,
+            "win_rate": 0.6078431372549019
+        }
+    },
+    "Dunskel": {
+        "Lucian": {
+            "kda": 2.203931203931204,
+            "total_games": 65,
+            "win_rate": 0.6153846153846154
+        },
+        "Caitlyn": {
+            "kda": 2.1031746031746033,
+            "total_games": 41,
+            "win_rate": 0.6097560975609756
+        },
+        "Corki": {
+            "kda": 2.47953216374269,
+            "total_games": 30,
+            "win_rate": 0.6666666666666666
+        },
+        "Viktor": {
+            "kda": 2.2737430167597767,
+            "total_games": 30,
+            "win_rate": 0.6
+        },
+        "Ezreal": {
+            "kda": 2.4405594405594404,
+            "total_games": 42,
+            "win_rate": 0.7380952380952381
+        },
+        "Fiora": {
+            "kda": 1.3487179487179488,
+            "total_games": 25,
+            "win_rate": 0.6
+        }
+    },
+    "you even trying": {
+        "Trundle": {
+            "kda": 3.457627118644068,
+            "total_games": 38,
+            "win_rate": 0.6052631578947368
+        },
+        "Irelia": {
+            "kda": 2.4483985765124556,
+            "total_games": 56,
+            "win_rate": 0.6071428571428571
+        },
+        "Maokai": {
+            "kda": 2.9743589743589745,
+            "total_games": 30,
+            "win_rate": 0.6
+        },
+        "Lissandra": {
+            "kda": 3.0588235294117645,
+            "total_games": 27,
+            "win_rate": 0.5185185185185185
+        },
+        "Fiora": {
+            "kda": 2.327731092436975,
+            "total_games": 123,
+            "win_rate": 0.6585365853658537
+        }
+    },
+    "JAOZIN DO BAILE": {
+        "Orianna": {
+            "kda": 3.515418502202643,
+            "total_games": 48,
+            "win_rate": 0.6458333333333334
+        },
+        "Lucian": {
+            "kda": 3.382239382239382,
+            "total_games": 44,
+            "win_rate": 0.7954545454545454
+        },
+        "Riven": {
+            "kda": 2.2283464566929134,
+            "total_games": 38,
+            "win_rate": 0.7105263157894737
+        },
+        "Nidalee": {
+            "kda": 4.973094170403588,
+            "total_games": 47,
+            "win_rate": 0.7659574468085106
+        },
+        "Annie": {
+            "kda": 3.5112359550561796,
+            "total_games": 32,
+            "win_rate": 0.8125
+        }
+    },
+    "Tartaruga Véia": {
+        "Nidalee": {
+            "kda": 3.841530054644809,
+            "total_games": 90,
+            "win_rate": 0.6777777777777778
+        },
+        "Elise": {
+            "kda": 3.105726872246696,
+            "total_games": 46,
+            "win_rate": 0.6304347826086957
+        },
+        "Gragas": {
+            "kda": 3.9741935483870967,
+            "total_games": 42,
+            "win_rate": 0.6428571428571429
+        },
+        "Lee Sin": {
+            "kda": 3.9976635514018692,
+            "total_games": 97,
+            "win_rate": 0.6185567010309279
+        },
+        "Rek'Sai": {
+            "kda": 3.691729323308271,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Kindred": {
+            "kda": 2.6497175141242937,
+            "total_games": 30,
+            "win_rate": 0.5666666666666667
+        }
+    },
+    "ETERNAL DOIDÃO": {
+        "Nidalee": {
+            "kda": 3.2902208201892744,
+            "total_games": 61,
+            "win_rate": 0.639344262295082
+        },
+        "Elise": {
+            "kda": 3.35195530726257,
+            "total_games": 33,
+            "win_rate": 0.7575757575757576
+        },
+        "Rek'Sai": {
+            "kda": 3.4328358208955225,
+            "total_games": 63,
+            "win_rate": 0.7301587301587301
+        }
+    },
+    "Chanmii": {
+        "Thresh": {
+            "kda": 4.216666666666667,
+            "total_games": 30,
+            "win_rate": 0.6
+        },
+        "Braum": {
+            "kda": 7.302631578947368,
+            "total_games": 33,
+            "win_rate": 0.7878787878787878
+        },
+        "Bard": {
+            "kda": 4.448979591836735,
+            "total_games": 25,
+            "win_rate": 0.64
+        },
+        "Karma": {
+            "kda": 4.1,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        },
+        "Alistar": {
+            "kda": 5.6,
+            "total_games": 33,
+            "win_rate": 0.8484848484848485
+        },
+        "Morgana": {
+            "kda": 6.80379746835443,
+            "total_games": 57,
+            "win_rate": 0.8070175438596491
+        }
+    },
+    "RED Brucer": {
+        "LeBlanc": {
+            "kda": 4.556701030927835,
+            "total_games": 28,
+            "win_rate": 0.6428571428571429
+        },
+        "Taliyah": {
+            "kda": 4.351851851851852,
+            "total_games": 26,
+            "win_rate": 0.6923076923076923
+        },
+        "Karma": {
+            "kda": 4.048780487804878,
+            "total_games": 25,
+            "win_rate": 0.64
+        }
+    },
+    "Kier": {
+        "Orianna": {
+            "kda": 3.596221133659902,
+            "total_games": 349,
+            "win_rate": 0.5787965616045845
+        },
+        "Soraka": {
+            "kda": 3.87603305785124,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Janna": {
+            "kda": 4.206185567010309,
+            "total_games": 59,
+            "win_rate": 0.559322033898305
+        },
+        "Kennen": {
+            "kda": 3.26890756302521,
+            "total_games": 27,
+            "win_rate": 0.6666666666666666
+        },
+        "Annie": {
+            "kda": 2.6088939566704674,
+            "total_games": 168,
+            "win_rate": 0.625
+        },
+        "Cho'Gath": {
+            "kda": 3.183246073298429,
+            "total_games": 45,
+            "win_rate": 0.5555555555555556
+        },
+        "Sona": {
+            "kda": 3.0313199105145414,
+            "total_games": 85,
+            "win_rate": 0.5647058823529412
+        },
+        "Lux": {
+            "kda": 3.066735112936345,
+            "total_games": 205,
+            "win_rate": 0.5170731707317073
+        },
+        "Morgana": {
+            "kda": 3.217391304347826,
+            "total_games": 73,
+            "win_rate": 0.5068493150684932
+        }
+    },
+    "Kawai Otter": {
+        "LeBlanc": {
+            "kda": 4.694915254237288,
+            "total_games": 35,
+            "win_rate": 0.5714285714285714
+        },
+        "Taliyah": {
+            "kda": 3.653179190751445,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        }
+    },
+    "Trilou": {
+        "Sivir": {
+            "kda": 3.9751552795031055,
+            "total_games": 101,
+            "win_rate": 0.5445544554455446
+        },
+        "Jhin": {
+            "kda": 4.892957746478873,
+            "total_games": 101,
+            "win_rate": 0.594059405940594
+        },
+        "Ashe": {
+            "kda": 4.466960352422907,
+            "total_games": 73,
+            "win_rate": 0.6575342465753424
+        },
+        "Corki": {
+            "kda": 3.416289592760181,
+            "total_games": 62,
+            "win_rate": 0.5
+        },
+        "Ezreal": {
+            "kda": 4.098,
+            "total_games": 154,
+            "win_rate": 0.5194805194805194
+        },
+        "Karma": {
+            "kda": 3.935185185185185,
+            "total_games": 25,
+            "win_rate": 0.52
+        },
+        "Lucian": {
+            "kda": 3.67989417989418,
+            "total_games": 110,
+            "win_rate": 0.5454545454545454
+        },
+        "Caitlyn": {
+            "kda": 3.515418502202643,
+            "total_games": 71,
+            "win_rate": 0.5633802816901409
+        },
+        "Jinx": {
+            "kda": 4.828947368421052,
+            "total_games": 28,
+            "win_rate": 0.7857142857142857
+        },
+        "Kalista": {
+            "kda": 3.5720338983050848,
+            "total_games": 64,
+            "win_rate": 0.578125
+        },
+        "Vayne": {
+            "kda": 3.3376623376623376,
+            "total_games": 45,
+            "win_rate": 0.6
+        },
+        "Kog'Maw": {
+            "kda": 3.721518987341772,
+            "total_games": 46,
+            "win_rate": 0.6956521739130435
+        }
+    },
+    "Shaco Inútil": {
+        "Shaco": {
+            "kda": 3.261747913921827,
+            "total_games": 459,
+            "win_rate": 0.6122004357298475
+        }
+    },
+    "Days4fun": {
+        "Nidalee": {
+            "kda": 3.855421686746988,
+            "total_games": 57,
+            "win_rate": 0.6842105263157895
+        },
+        "Zac": {
+            "kda": 5.335195530726257,
+            "total_games": 50,
+            "win_rate": 0.58
+        },
+        "Graves": {
+            "kda": 3.1794871794871793,
+            "total_games": 71,
+            "win_rate": 0.6197183098591549
+        },
+        "Nunu": {
+            "kda": 5.455445544554456,
+            "total_games": 29,
+            "win_rate": 0.6206896551724138
+        },
+        "Gragas": {
+            "kda": 4.432291666666667,
+            "total_games": 49,
+            "win_rate": 0.6122448979591837
+        },
+        "Rek'Sai": {
+            "kda": 4.91970802919708,
+            "total_games": 76,
+            "win_rate": 0.7236842105263158
+        },
+        "Hecarim": {
+            "kda": 3.871165644171779,
+            "total_games": 35,
+            "win_rate": 0.5428571428571428
+        },
+        "Jhin": {
+            "kda": 4.509803921568627,
+            "total_games": 27,
+            "win_rate": 0.7407407407407407
+        },
+        "Nocturne": {
+            "kda": 3.888235294117647,
+            "total_games": 38,
+            "win_rate": 0.6052631578947368
+        }
+    },
+    "Kaneca1": {
+        "Nidalee": {
+            "kda": 3.9285714285714284,
+            "total_games": 29,
+            "win_rate": 0.5862068965517241
+        },
+        "Ryze": {
+            "kda": 3.611111111111111,
+            "total_games": 33,
+            "win_rate": 0.6363636363636364
+        },
+        "Yasuo": {
+            "kda": 2.785,
+            "total_games": 42,
+            "win_rate": 0.6190476190476191
+        },
+        "Lee Sin": {
+            "kda": 3.6228070175438596,
+            "total_games": 54,
+            "win_rate": 0.5370370370370371
+        },
+        "Cassiopeia": {
+            "kda": 3.251231527093596,
+            "total_games": 53,
+            "win_rate": 0.7358490566037735
+        },
+        "Morgana": {
+            "kda": 4.666666666666667,
+            "total_games": 59,
+            "win_rate": 0.6271186440677966
+        }
+    },
+    "Torta Alemã": {
+        "LeBlanc": {
+            "kda": 3.8451612903225807,
+            "total_games": 33,
+            "win_rate": 0.6666666666666666
+        },
+        "Tahm Kench": {
+            "kda": 4.7560975609756095,
+            "total_games": 49,
+            "win_rate": 0.7959183673469388
+        }
+    },
+    "Gorila Autista": {
+        "LeBlanc": {
+            "kda": 4.077586206896552,
+            "total_games": 28,
+            "win_rate": 0.6428571428571429
+        },
+        "Tahm Kench": {
+            "kda": 3.4345991561181433,
+            "total_games": 57,
+            "win_rate": 0.6140350877192983
+        },
+        "Swain": {
+            "kda": 4.25,
+            "total_games": 25,
+            "win_rate": 0.72
+        }
+    },
+    "sleepless summer": {
+        "Lucian": {
+            "kda": 2.2473684210526317,
+            "total_games": 37,
+            "win_rate": 0.5405405405405406
+        },
+        "Janna": {
+            "kda": 5.352201257861635,
+            "total_games": 64,
+            "win_rate": 0.59375
+        },
+        "Zyra": {
+            "kda": 2.6813725490196076,
+            "total_games": 33,
+            "win_rate": 0.5151515151515151
+        },
+        "Graves": {
+            "kda": 2.4545454545454546,
+            "total_games": 32,
+            "win_rate": 0.5
+        },
+        "Braum": {
+            "kda": 3.25938566552901,
+            "total_games": 62,
+            "win_rate": 0.5
+        },
+        "Tahm Kench": {
+            "kda": 3.610169491525424,
+            "total_games": 29,
+            "win_rate": 0.7586206896551724
+        },
+        "Trundle": {
+            "kda": 4.359154929577465,
+            "total_games": 44,
+            "win_rate": 0.6590909090909091
+        },
+        "Nami": {
+            "kda": 4.519329896907217,
+            "total_games": 214,
+            "win_rate": 0.5887850467289719
+        },
+        "Karma": {
+            "kda": 3.435267857142857,
+            "total_games": 104,
+            "win_rate": 0.5576923076923077
+        },
+        "Alistar": {
+            "kda": 3.5343347639484977,
+            "total_games": 120,
+            "win_rate": 0.55
+        },
+        "Morgana": {
+            "kda": 3.6426914153132253,
+            "total_games": 93,
+            "win_rate": 0.5483870967741935
+        }
+    },
+    "Vini a Riven": {
+        "Quinn": {
+            "kda": 2.3494809688581313,
+            "total_games": 38,
+            "win_rate": 0.7368421052631579
+        },
+        "Riven": {
+            "kda": 2.177159590043924,
+            "total_games": 190,
+            "win_rate": 0.6421052631578947
+        }
+    },
+    "watilinha": {
+        "Lucian": {
+            "kda": 3.2060085836909873,
+            "total_games": 55,
+            "win_rate": 0.6181818181818182
+        },
+        "Ezreal": {
+            "kda": 3.342857142857143,
+            "total_games": 93,
+            "win_rate": 0.6344086021505376
+        },
+        "Jhin": {
+            "kda": 3.5813148788927336,
+            "total_games": 70,
+            "win_rate": 0.5142857142857142
+        }
+    },
+    "today is a gift": {
+        "Nidalee": {
+            "kda": 4.6543909348441925,
+            "total_games": 104,
+            "win_rate": 0.625
+        },
+        "Elise": {
+            "kda": 5.0212765957446805,
+            "total_games": 71,
+            "win_rate": 0.7183098591549296
+        },
+        "Graves": {
+            "kda": 3.7475728155339807,
+            "total_games": 83,
+            "win_rate": 0.5542168674698795
+        },
+        "Gragas": {
+            "kda": 7.754716981132075,
+            "total_games": 26,
+            "win_rate": 0.6923076923076923
+        },
+        "Olaf": {
+            "kda": 4.863247863247863,
+            "total_games": 37,
+            "win_rate": 0.6216216216216216
+        },
+        "Lee Sin": {
+            "kda": 4.7,
+            "total_games": 57,
+            "win_rate": 0.5789473684210527
+        },
+        "Rek'Sai": {
+            "kda": 5.8121212121212125,
+            "total_games": 65,
+            "win_rate": 0.6615384615384615
+        },
+        "Kindred": {
+            "kda": 4.209677419354839,
+            "total_games": 35,
+            "win_rate": 0.6857142857142857
+        }
+    },
+    "Céos": {
+        "Brand": {
+            "kda": 2.736231884057971,
+            "total_games": 56,
+            "win_rate": 0.625
+        },
+        "Tahm Kench": {
+            "kda": 3.394160583941606,
+            "total_games": 30,
+            "win_rate": 0.5333333333333333
+        },
+        "Zyra": {
+            "kda": 3.2062780269058297,
+            "total_games": 44,
+            "win_rate": 0.5227272727272727
+        },
+        "Braum": {
+            "kda": 4.866,
+            "total_games": 145,
+            "win_rate": 0.6482758620689655
+        },
+        "Bard": {
+            "kda": 4.2962382445141065,
+            "total_games": 164,
+            "win_rate": 0.5487804878048781
+        },
+        "Trundle": {
+            "kda": 5.988372093023256,
+            "total_games": 32,
+            "win_rate": 0.6875
+        },
+        "Karma": {
+            "kda": 4.704081632653061,
+            "total_games": 55,
+            "win_rate": 0.6181818181818182
+        },
+        "Thresh": {
+            "kda": 3.636851520572451,
+            "total_games": 131,
+            "win_rate": 0.5419847328244275
+        }
+    },
+    "JAO DA MAIONESE": {
+        "Jax": {
+            "kda": 2.2205882352941178,
+            "total_games": 28,
+            "win_rate": 0.7142857142857143
+        }
+    },
+    "P1JACK IS BACK": {
+        "Nidalee": {
+            "kda": 1.9890590809628008,
+            "total_games": 66,
+            "win_rate": 0.5
+        },
+        "Quinn": {
+            "kda": 1.7819148936170213,
+            "total_games": 25,
+            "win_rate": 0.68
+        },
+        "Lee Sin": {
+            "kda": 2.100949094046592,
+            "total_games": 156,
+            "win_rate": 0.5384615384615384
+        },
+        "Irelia": {
+            "kda": 1.7572509457755359,
+            "total_games": 212,
+            "win_rate": 0.5424528301886793
+        },
+        "Ezreal": {
+            "kda": 2.029126213592233,
+            "total_games": 54,
+            "win_rate": 0.5740740740740741
+        },
+        "Jayce": {
+            "kda": 1.6476190476190475,
+            "total_games": 67,
+            "win_rate": 0.5970149253731343
+        },
+        "Riven": {
+            "kda": 1.650175301908843,
+            "total_games": 340,
+            "win_rate": 0.5352941176470588
+        }
+    },
+    "FUDlDO": {
+        "Cassiopeia": {
+            "kda": 3.383408071748879,
+            "total_games": 92,
+            "win_rate": 0.7065217391304348
+        },
+        "Zilean": {
+            "kda": 3.1970443349753697,
+            "total_games": 40,
+            "win_rate": 0.6
+        }
+    },
+    "dudito aburrido": {
+        "Lucian": {
+            "kda": 2.8063973063973062,
+            "total_games": 122,
+            "win_rate": 0.5901639344262295
+        },
+        "Caitlyn": {
+            "kda": 2.268987341772152,
+            "total_games": 56,
+            "win_rate": 0.5535714285714286
+        },
+        "Sivir": {
+            "kda": 3.141304347826087,
+            "total_games": 40,
+            "win_rate": 0.625
+        },
+        "Jhin": {
+            "kda": 3.0569395017793592,
+            "total_games": 51,
+            "win_rate": 0.6078431372549019
+        },
+        "Ashe": {
+            "kda": 2.770961145194274,
+            "total_games": 90,
+            "win_rate": 0.6111111111111112
+        },
+        "Zac": {
+            "kda": 3.4298245614035086,
+            "total_games": 30,
+            "win_rate": 0.5333333333333333
+        },
+        "Kalista": {
+            "kda": 2.601769911504425,
+            "total_games": 59,
+            "win_rate": 0.6101694915254238
+        },
+        "Tristana": {
+            "kda": 2.9935064935064934,
+            "total_games": 33,
+            "win_rate": 0.6060606060606061
+        }
+    },
+    "Vó Terezinha": {
+        "Lucian": {
+            "kda": 3.330952380952381,
+            "total_games": 95,
+            "win_rate": 0.5684210526315789
+        },
+        "Caitlyn": {
+            "kda": 2.7672413793103448,
+            "total_games": 52,
+            "win_rate": 0.6346153846153846
+        },
+        "Sivir": {
+            "kda": 3.661654135338346,
+            "total_games": 35,
+            "win_rate": 0.5714285714285714
+        },
+        "Jhin": {
+            "kda": 4.063758389261745,
+            "total_games": 73,
+            "win_rate": 0.6712328767123288
+        },
+        "Ashe": {
+            "kda": 3.7732558139534884,
+            "total_games": 40,
+            "win_rate": 0.7
+        },
+        "Ezreal": {
+            "kda": 4.25,
+            "total_games": 88,
+            "win_rate": 0.7159090909090909
+        }
+    },
+    "Waifu da Fer": {
+        "Karma": {
+            "kda": 3.111111111111111,
+            "total_games": 51,
+            "win_rate": 0.5098039215686274
+        },
+        "Janna": {
+            "kda": 4.451827242524917,
+            "total_games": 91,
+            "win_rate": 0.5934065934065934
+        },
+        "Thresh": {
+            "kda": 3.055350553505535,
+            "total_games": 56,
+            "win_rate": 0.5178571428571429
+        },
+        "Braum": {
+            "kda": 3.466666666666667,
+            "total_games": 103,
+            "win_rate": 0.5922330097087378
+        },
+        "Annie": {
+            "kda": 2.349462365591398,
+            "total_games": 27,
+            "win_rate": 0.6296296296296297
+        },
+        "Trundle": {
+            "kda": 3.568345323741007,
+            "total_games": 31,
+            "win_rate": 0.5806451612903226
+        },
+        "Lee Sin": {
+            "kda": 3.0953002610966056,
+            "total_games": 141,
+            "win_rate": 0.5177304964539007
+        },
+        "Rek'Sai": {
+            "kda": 3.511111111111111,
+            "total_games": 33,
+            "win_rate": 0.5757575757575758
+        },
+        "Alistar": {
+            "kda": 3.5230352303523036,
+            "total_games": 89,
+            "win_rate": 0.5168539325842697
+        },
+        "Nocturne": {
+            "kda": 4.081632653061225,
+            "total_games": 26,
+            "win_rate": 0.7307692307692307
+        },
+        "Morgana": {
+            "kda": 3.761517615176152,
+            "total_games": 81,
+            "win_rate": 0.5432098765432098
+        }
+    },
+    "Garotumb": {
+        "Miss Fortune": {
+            "kda": 4.017441860465116,
+            "total_games": 94,
+            "win_rate": 0.6808510638297872
+        },
+        "Graves": {
+            "kda": 2.7185185185185183,
+            "total_games": 26,
+            "win_rate": 0.5
+        },
+        "Jhin": {
+            "kda": 3.621739130434783,
+            "total_games": 115,
+            "win_rate": 0.5043478260869565
+        },
+        "Ashe": {
+            "kda": 2.761904761904762,
+            "total_games": 42,
+            "win_rate": 0.5476190476190477
+        },
+        "Brand": {
+            "kda": 3.2686567164179103,
+            "total_games": 26,
+            "win_rate": 0.6538461538461539
+        },
+        "Corki": {
+            "kda": 3.6050420168067228,
+            "total_games": 53,
+            "win_rate": 0.5283018867924528
+        },
+        "Ezreal": {
+            "kda": 3.5306603773584904,
+            "total_games": 211,
+            "win_rate": 0.5402843601895735
+        },
+        "Hecarim": {
+            "kda": 2.722488038277512,
+            "total_games": 36,
+            "win_rate": 0.5833333333333334
+        },
+        "Lucian": {
+            "kda": 3.275943396226415,
+            "total_games": 203,
+            "win_rate": 0.541871921182266
+        },
+        "Tristana": {
+            "kda": 2.9124579124579126,
+            "total_games": 71,
+            "win_rate": 0.5070422535211268
+        },
+        "Sivir": {
+            "kda": 3.405857740585774,
+            "total_games": 53,
+            "win_rate": 0.5094339622641509
+        },
+        "Vayne": {
+            "kda": 3.4248704663212437,
+            "total_games": 47,
+            "win_rate": 0.6808510638297872
+        },
+        "Kog'Maw": {
+            "kda": 2.9419354838709677,
+            "total_games": 34,
+            "win_rate": 0.5588235294117647
+        }
+    }
+}
